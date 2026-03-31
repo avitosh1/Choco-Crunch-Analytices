@@ -1,0 +1,756 @@
+product_code,product_name,brand,energy-kcal_value,energy-kj_value,carbohydrates_value,sugars_value,fat_value,saturated-fat_value,proteins_value,fiber_value,salt_value,sodium_value,nutrition-score-fr,nova-group,fruits-vegetables-nuts-estimate-from-ingredients_100g,sugar_to_carb_ratio,calorie_category,sugar_category,is_ultra_processed
+5410126006049,The Original Speculoos,Lotus,484.0,2033.0,72.6,38.1,19.0,8.0,4.9,1.3,0.92,0.368,,3.0,6.175,0.5247933884297521,Moderate,Moderate Sugar,No
+6111245470030,Afia huile de table,AFIA,900.0,3700.0,0.0,0.0,100.0,15.0,0.0,0.0,0.0,0.0,,3.0,0.0,0.0,High,Low Sugar,No
+4056489891130,Pâte à tartiner cacao noisettes bio,LIDL,516.0,2157.0,59.0,57.6,27.5,4.0,6.4,2.5,0.12,0.048,,4.0,16.0,0.976271186440678,High,High Sugar,Yes
+3229820804224,Céréales complètes au chocolat noir intense,Bjorg,460.0,1925.0,58.0,17.0,19.0,6.6,9.6,9.1,0.17,0.068,,3.0,2.27596153846154,0.29310344827586204,Moderate,Low Sugar,No
+3608580135791,Bonne maman pate a tartiner noisettes et cacao,Bonne Maman,551.0,2299.3,53.0,51.0,34.0,5.2,6.7,3.3,0.1,0.04,,4.0,25.0,0.9622641509433962,High,High Sugar,Yes
+3178530402988,Tartelettes citron,Bonne Maman,453.0,1904.0,66.0,41.0,18.0,8.7,6.0,1.7,0.3,0.12,,4.0,2.25416666666667,0.6212121212121212,Moderate,High Sugar,Yes
+3336970711064,Curly cacahuète l'original,"Curly,Intersnack,Vico",486.0,2034.0,52.0,1.4,24.0,3.2,13.0,5.5,1.5,0.6,,4.0,0.75,0.02692307692307692,Moderate,Low Sugar,Yes
+7622201693916,Full fat soft cheese,PHILADELPHIA,226.666666666667,933.0,4.3,4.3,21.0,14.0,5.4,0.2,0.75,0.3,,4.0,0.0,1.0,Low,Low Sugar,Yes
+3229820797366,Avoine citron 🍋 graines de chia,Bjorg,447.0,1874.0,62.0,13.0,16.0,1.7,9.4,8.5,0.39,0.156,,4.0,9.8,0.20967741935483872,Moderate,Low Sugar,Yes
+3412290015997,Paysan Breton - Beurre moulé demi-sel,Paysan Breton,713.193116634798,2984.0,0.6,0.6,80.0,57.0,0.8,2.5,2.0,0.8,,2.0,0.0,1.0,High,Low Sugar,No
+3175681851832,Barre amande,Gerblé,420.0,1768.0,67.0,57.0,13.0,1.2,7.9,4.1,0.05,0.02,,4.0,24.4,0.8507462686567164,Moderate,High Sugar,Yes
+5411188115533,soya Vanille,alpro,57.0,240.0,6.7,6.7,1.8,0.3,3.0,0.5,0.14,0.056,,4.0,8.58125,1.0,Low,Low Sugar,Yes
+8076809545457,Penne Rigate Senza Glutine,Barilla,365.678776290631,1517.8,79.0,0.5,1.5,0.3,6.5,1.1,0.01,0.004,,4.0,0.0,0.006329113924050633,Moderate,Low Sugar,Yes
+3700214616987,70% équateur,Alter Eco,582.0,2413.9,37.0,29.0,43.0,26.0,6.7,10.0,0.01,0.004,,3.0,0.0,0.7837837837837838,High,Moderate Sugar,No
+8410376017113,Biscuits Mega Duo imp,Gullón,480.0,2010.0,67.0,31.0,20.0,8.6,5.9,4.0,0.45,0.18,,4.0,0.0,0.4626865671641791,Moderate,Moderate Sugar,Yes
+8480000805317,Tortillas de avena 51%,Hacendado,286.666666666667,1208.0,40.0,1.9,6.0,1.9,15.0,5.4,1.3,0.52,,4.0,0.0,0.0475,Low,Low Sugar,Yes
+6111242105676,LADID,Jaouda,95.0,403.7,17.5,9.4,1.4,0.5,3.2,2.5,0.0,0.0,,4.0,0.2653808593749965,0.5371428571428571,Low,Low Sugar,Yes
+8595229900504,Müsli oat biscuits,Emco,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,13.3333333333333,9.2,0.25943396226415094,Low,Low Sugar,No
+6111017042427,Chocolat Tentation Noir Gourmand Amandes,Aiguebelle,543.0,2260.3,40.4,36.8,38.3,18.0,9.2,2.5,2e-06,8e-07,,4.0,20.0,0.9108910891089108,High,Moderate Sugar,Yes
+3174061039129,Confiture de myrtille 70%,Léonce Blanc,173.0,736.6,40.0,37.0,0.5,0.1,0.5,3.7,0.02,0.008,,4.0,75.0,0.925,Low,Moderate Sugar,Yes
+6111265980243,,,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+3760121219749,Noir 70 %,Biocoop,565.0,2353.3,33.0,29.0,42.0,27.0,7.9,13.0,0.1,0.04,,3.0,0.0,0.8787878787878788,High,Moderate Sugar,No
+3366321055516,l'original,St Hubert,477.0,1961.0,0.0,0.0,53.0,26.0,0.0,0.0,0.42,0.168,,4.0,0.0,0.0,Moderate,Low Sugar,Yes
+6111259347625,pickers crunchy,,523.809523809524,2190.47619047619,61.9047619047619,47.6190476190476,28.5714285714286,16.6666666666667,4.76190476190476,0.0,0.238095238095238,0.0952380952380952,,19.047619047619,0.184461805555557,0.7692307692307689,High,High Sugar,No
+3175681060524,Sablés sarrasin miel saveur citron,céréal bio,472.0,1979.0,67.0,17.0,18.0,1.9,7.9,5.0,0.34,0.136,,4.0,0.2653808593749965,0.2537313432835821,Moderate,Low Sugar,Yes
+3036811460259,Velouté de légumes,Liebig,30.0,124.1,2.8,1.4,1.4,0.8,0.7,1.6,0.64,0.256,,3.0,45.9,0.5,Low,Low Sugar,No
+3124480186850,schweppes Indian tonic,scweppes,19.0,82.0,5.8,5.8,0.0,0.0,0.0,2.5,0.0,0.0,,4.0,0.0,1.0,Low,Low Sugar,Yes
+4056489007166,Pain de mie extra-moelleux nature,tastino,336.0,1198.4,51.2,3.6,4.4,0.4,8.4,2.8,0.9,0.36,,16.0,0.45,0.0703125,Moderate,Low Sugar,No
+3168930158158,Cruesli miel et noisettes,"Cruesli, QUAKER",460.0,1922.0,63.0,15.0,18.0,1.8,7.5,9.4,0.06,0.024,,4.0,5.0,0.23809523809523808,Moderate,Low Sugar,Yes
+3256220512985,Tablette de chocolat noir 100g,"U, U Bio",572.0,2374.0,35.0,26.0,41.0,28.0,8.8,14.0,0.03,0.012,,4.0,0.2653808593749965,0.7428571428571429,High,Moderate Sugar,Yes
+8712100872273,Maille Moutarde Fine De Dijon L'Originale Verrine 165g,Maille,144.0,600.0,2.6,2.0,10.0,0.7,7.6,3.9,4.9,1.96,,3.0,0.0,0.7692307692307692,Low,Low Sugar,No
+0011210697003,Sriracha Sauce🙂,"TABASCO, Haugen - gruppen as",140.0,596.01,31.6,0.9,0.45,0.0,2.48,0.0,7.8,0.134,,4.0,8.0,0.028481012658227847,Low,Low Sugar,Yes
+6111242106673,Jutos,Jaouda,40.0,171.0,10.0,8.5,0.0,0.0,0.0,2.5,0.02,0.008,,3.0,12.49,0.85,Low,Low Sugar,No
+4056489608264,Huile d'olive bio,PRIMADONNA,828.0,3404.0,0.0,0.0,92.0,14.0,0.0,2.5,0.0,0.0,,2.0,100.0,0.0,High,Low Sugar,No
+3560071276539,Tableta chocolate negro 85%,Carrefour BIO,631.0,2610.0,20.0,15.0,55.0,34.0,9.1,12.0,0.01,0.004,,3.0,0.2653808593749965,0.75,High,Low Sugar,No
+8445290114594,Crousti fondant choco-noisettes,"Nestlé, Nat",452.0,1896.0,62.8,17.5,17.4,2.4,7.7,6.2,0.22,0.088,,4.0,0.2653808593749965,0.2786624203821656,Moderate,Low Sugar,Yes
+3487400006929,Riz à la Méditerranéenne,Ben's Original,168.0,707.9,30.0,2.1,3.3,0.2,3.8,1.4,0.53,0.212,,4.0,0.787109375,0.07,Low,Low Sugar,Yes
+8001665712859,Plaisir du Primeur -  Girasoli cèpes,Rana,250.0,1048.0,32.0,5.7,8.4,2.4,8.7,5.5,1.1,0.44,,4.0,25.0,0.178125,Low,Low Sugar,Yes
+3610340670909,Ganier,Ganier,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.0,0.25943396226415094,Low,Low Sugar,Yes
+8901058017687,maggi,Maggi,384.0,1194.0,59.4,1.8,12.5,8.2,8.2,2.5,2.5,1.0,,4.0,0.2653808593749965,0.030303030303030304,Moderate,Low Sugar,Yes
+3183280012875,Sel de mer,La baleine,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,97.5,39.0,,2.0,0.0,0.0,Low,Low Sugar,No
+20023775,Taboulé à l’orientale,Saladinettes,183.0,766.0,25.0,5.4,6.7,0.8,4.5,2.1,0.9,0.36,,3.0,45.75,0.21600000000000003,Low,Low Sugar,No
+3178530410136,Madeleines aux œufs de poules élevées en plein air,St Michel,476.0,1988.0,52.0,22.0,27.0,2.5,5.7,1.0,0.88,0.352,,4.0,24.5,0.4230769230769231,Moderate,Moderate Sugar,Yes
+3088540502663,Miel de Montagne,"Bernard Michaud, L'Apiculteur",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.0,0.25943396226415094,Low,Low Sugar,Yes
+8480000205599,Yogur griego natural,Hacendado,129.0,540.0,3.9,3.9,10.8,6.7,3.9,0.0,0.12,0.048,,3.0,0.0,1.0,Low,Low Sugar,No
+3664346306126,Super Poulain,Poulain,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+3760049791266,6 pains suedois 180g,La Boulangère,288.0,1216.0,54.0,11.0,2.8,0.3,8.9,5.4,0.96,0.384,,4.0,0.405681818181819,0.2037037037037037,Low,Low Sugar,Yes
+3088866541056,Brossard le cake à l'anglaise,Brossard,351.0,1476.4,61.0,37.0,9.3,1.0,4.1,3.2,0.33,0.132,,4.0,44.0625480651855,0.6065573770491803,Moderate,Moderate Sugar,Yes
+5411188131380,"Alpro Fermentiertes Kokosnussprodukt, Natur, Absolutely 350g","Alpro,Danone",84.0,348.0,6.0,0.6,6.1,5.7,0.6,0.0,0.07,0.028,,4.0,80.0,0.09999999999999999,Low,Low Sugar,Yes
+3280241101002,Douceur de brebis nature,Le Petit Basque,132.0,543.4,5.4,3.3,10.0,7.0,4.8,2.5,0.11,0.044,,3.0,0.0,0.611111111111111,Low,Low Sugar,No
+3664346326872,Poulain Grand Arôme intense 70% de cacao,Poulain,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+3250391660995,Pâte à tartiner 18.5% Bio - 350g,"Ivoria, Intermarché",538.0,2245.0,53.0,52.0,32.0,7.9,7.6,3.8,0.13,0.052,,4.0,18.5,0.9811320754716981,High,High Sugar,Yes
+3175681210981,Façon Chili,Céréal Bio,111.0,465.2,8.9,2.3,3.5,0.4,7.6,6.9,0.66,0.264,,3.0,36.5807638888889,0.2584269662921348,Low,Low Sugar,No
+3175681188389,Sablés Myrtilles Germes de riz,Gerblé,54.0,288.0,7.9,1.9,2.0,0.2,0.9,0.5,0.05,0.02,,4.0,25.2,0.24050632911392403,Low,Low Sugar,Yes
+3560071005214,90% cacao noir,Carrefour,622.0,2569.0,16.0,9.7,54.0,34.0,12.0,13.0,0.03,0.012,,4.0,0.0,0.60625,High,Low Sugar,Yes
+3250391422715,L'intense chocolat noir 85%,"Intermarché, Ivoria, Les créations",601.0,2486.0,22.0,13.0,49.0,30.0,11.0,14.0,0.0,0.0,,3.0,0.0,0.5909090909090909,High,Low Sugar,No
+3270160193301,4 filets de cabillaud panure croustillante,Picard,193.0,809.0,17.0,1.8,8.1,0.9,12.0,1.3,0.46,0.184,,4.0,0.95703125,0.10588235294117647,Low,Low Sugar,Yes
+6111017046470,délice noir,Aiguebelle,534.0,2226.0,47.0,44.0,36.0,22.0,5.2,2.5,0.011,0.0044,,4.0,0.2653808593749965,0.9361702127659575,High,High Sugar,Yes
+6111032006985,Danao Pèche-Abricot,Danone,37.0,156.77,8.7,7.9,0.01,0.01,0.5,2.5,0.0,0.0,,4.0,3.955,0.9080459770114944,Low,Low Sugar,Yes
+6111029000040,,نلزه,400.0,1194.0,100.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,,4.0,0.2653808593749965,0.0,Moderate,Low Sugar,Yes
+6111252422169,,sting,28.0,119.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0725,0.029,,4.0,0.0,1.0,Low,Low Sugar,Yes
+6111266680135,fondiz,land'or Maroc industries,277.0,1194.0,9.0,7.0,19.0,9.0,5.0,0.0,0.85,0.34,,4.0,0.2653808593749965,0.7777777777777778,Low,Low Sugar,Yes
+8710438116281,Frites de patate douce,McCain,161.0,673.5,24.0,14.0,5.5,0.4,2.0,3.5,0.295,0.118,,4.0,4.125,0.5833333333333334,Low,Low Sugar,Yes
+3228857002313,Brioche tressée nature allegée en sucres sans additifs 450g,Harrys,351.0,1470.0,44.0,10.0,14.0,1.2,8.7,7.0,0.82,0.328,,4.0,4.7685546875,0.22727272727272727,Moderate,Low Sugar,Yes
+8000500227848,B-ready 6 pièces,"Nutella, Ferrero",521.0,2177.0,60.7,47.1,27.0,9.5,7.2,2.5,0.559,0.2236,,4.0,13.0,0.7759472817133443,High,High Sugar,Yes
+3266980033613,Cordon bleu Le Gaulois,Le Gaulois,214.0,896.0,13.0,1.6,11.0,3.0,15.0,1.6,0.825,0.33,,4.0,0.0140625,0.12307692307692308,Low,Low Sugar,Yes
+5010029000801,Weetabix,Weetabix,272.0,1446.25,65.0,4.0,2.0,0.6,11.25,9.5,0.24375,0.0975,,7.5,0.0,0.06153846153846154,Low,Low Sugar,No
+5010265002911,Dark Rye Crispbread,Ryvita,352.380952380952,1477.14285714286,67.6190476190476,2.85714285714286,0.952380952380952,0.19047619047619,10.4761904761905,14.2857142857143,0.928571428571429,0.371428571428571,,28.5714285714286,0.0,0.04225352112676061,Moderate,Low Sugar,No
+3229820004341,Pain d'épices miel,Bjorg,329.0,1395.0,75.0,40.0,1.0,0.2,3.2,3.6,0.35,0.14,,4.0,0.0,0.5333333333333333,Moderate,Moderate Sugar,Yes
+3270190128519,Petit beurre tablette Chocolat noir,"Carrefour BIO, Carrefour",493.0,2063.0,60.0,35.0,24.0,15.0,7.5,4.7,0.4,0.16,,3.0,0.0,0.5833333333333334,Moderate,Moderate Sugar,No
+3083681057843,Haricots Verts extra-fins 1/4,Cassegrain,20.0,82.0,2.3,1.3,0.1,0.1,1.4,2.4,0.79,0.316,,3.0,0.2653808593749965,0.5652173913043479,Low,Low Sugar,No
+3083680085335,Flageolets préparés 1/2,Cassegrain,98.0,411.0,13.0,0.5,0.8,0.1,6.5,6.2,0.81,0.324,,4.0,0.2653808593749965,0.038461538461538464,Low,Low Sugar,Yes
+8076809570596,Barilla sauce tomates cuisinees 400g,Barilla,68.0,284.0,6.0,5.0,4.0,0.4,1.3,1.5,1.0,0.4,,4.0,0.2653808593749965,0.8333333333333334,Low,Low Sugar,Yes
+3248832967611,St Jacques fondue de poireaux & Riz Basmati,Marie,144.0,605.0,16.0,1.2,6.2,3.0,5.8,0.6,0.59,0.236,,3.0,0.2653808593749965,0.075,Low,Low Sugar,No
+40893532,Cashew Nuts XXL,"Alesto, LIDL Alesto",600.0,2488.0,19.8,6.5,47.6,9.0,20.5,5.2,0.02,0.008,,1.0,100.0,0.3282828282828283,High,Low Sugar,No
+3263670126518,Sardines sans arêtes au naturel,Connétable,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,10.0,0.25943396226415094,Low,Low Sugar,Yes
+8410376039986,"Gullon Cuordi Cereale Tradizionale, Alto Contenuto Di Fibra",Gullon,455.0,1902.0,57.0,16.0,19.0,1.7,7.9,12.0,0.75,0.3,,4.0,0.0,0.2807017543859649,Moderate,Low Sugar,Yes
+6111271590498,vamos,Yoplait,451.0,1194.0,70.6,43.2,14.6,7.2,4.5,2.5,0.3925,0.157,,4.0,0.2653808593749965,0.6118980169971673,Moderate,High Sugar,Yes
+8423352861402,Bebida de Avena,"Alitey,Liquats Vegetals",47.0,198.0,8.2,5.4,0.7,0.1,1.6,0.7,0.03,0.012,,1.0,0.0,0.6585365853658538,Low,Low Sugar,No
+3183280017337,Sel Fin,La baleine,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,97.5,39.0,,2.0,0.0,0.0,Low,Low Sugar,No
+20711115,cassonade,"Lidl, navarre",400.0,1727.0,100.0,98.9,0.5,0.5,0.5,0.0,0.01,0.004,,2.0,0.0,0.9890000000000001,Moderate,High Sugar,No
+8410300349051,Caldo casero de pollo,Gallina Blanca,5.0,21.0,0.2,0.1,0.3,0.0,0.4,0.0,0.75,0.3,,4.0,1.1,0.5,Low,Low Sugar,Yes
+3023290234853,Yaourt vanille de Madagascar,"Nestlé, La Laitière",95.0,387.0,12.9,12.9,3.2,2.1,2.9,0.0,0.1175,0.047,,4.0,0.0,1.0,Low,Low Sugar,Yes
+3023290036686,Riz au lait,"Nestlé, La Laitière",144.0,605.7,25.6,15.8,3.3,2.2,2.8,0.1,0.2,0.08,,3.47826086956522,0.0,0.6171875,Low,Low Sugar,No
+50160884,Vegan Bouillon powder,Marigold,241.0,1011.0,30.6,3.9,8.4,0.9,9.6,0.0,43.8,17.52,,3.0,11.7676282051282,0.12745098039215685,Low,Low Sugar,No
+4014400901191,Merci,Storck,573.0,2317.0,49.7,48.0,37.5,19.9,7.6,2.5,0.17,0.068,,4.0,7.2,0.96579476861167,High,High Sugar,Yes
+3245412511561,Yaourt à la GRECQUE NATURE,Carrefour,107.0,443.0,4.4,4.0,8.5,6.0,3.2,2.5,0.09,0.036,,3.0,0.0,0.9090909090909091,Low,Low Sugar,No
+8480000511102,Mozzarella Pizza-Roma,HACENDADO,283.0,1176.0,2.5,0.8,21.0,13.0,21.0,2.5,1.0,0.4,,3.0,0.0,0.32,Low,Low Sugar,No
+3760020508593,Lentilles vertes,"Jardin bio, Léa Nature",128.0,538.0,17.0,1.2,1.7,0.2,8.3,5.6,0.7,0.28,,3.0,32.7,0.07058823529411765,Low,Low Sugar,No
+3270160860333,"Poêlée de gnocchis (tomates, mozzarella)",Picard,159.0,671.0,24.0,8.4,4.1,1.4,5.2,2.7,0.6,0.24,,3.0,32.7652919501134,0.35000000000000003,Low,Low Sugar,No
+3609200010054,Rice crackers sea salt,N.A! Nature Addicts,429.0,1814.0,82.0,0.8,8.0,2.0,6.9,0.8,1.1,0.44,,4.0,0.0,0.00975609756097561,Moderate,Low Sugar,Yes
+6111032007968,Crème caramel,Danone,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.0,0.25943396226415094,Low,Low Sugar,Yes
+6111179003847,Nectar Orange,Al Boustane,46.0,227.0,12.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,,4.0,0.2653808593749965,0.9166666666666666,Low,Low Sugar,Yes
+8410076600448,Nature valley crunchy oats and berries,Nature Valley,452.38,1900.0,71.42,30.2381,16.9,2.61905,7.38,6.19048,0.66667,0.26667,,9.52380952380952,11.2727272727273,0.42338420610473254,Moderate,Moderate Sugar,No
+6111184000190,Konfitura Morelowa 240g*EL Baraka*,"el baraka, Al baraka",240.0,1059.0,60.0,60.0,0.0,0.0,0.6,0.5,0.025,0.01,,4.0,50.0,1.0,Low,High Sugar,Yes
+6111126000905,قشدة طرية,CHERGUI,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,1.0,0.0,0.25943396226415094,Low,Low Sugar,No
+3017760472890,BelVita Original Petit Déjeuner pépites de chocolat,"LU, belVita",436.0,1832.0,66.0,16.0,14.0,2.0,8.6,7.1,0.85,0.34,,4.0,0.0,0.24242424242424243,Moderate,Low Sugar,Yes
+3038352880305,Le Ravioli pur boeuf,Panzani,91.0,384.0,13.0,1.4,2.3,0.8,3.8,1.6,0.75,0.3,,4.0,17.0454545454546,0.10769230769230768,Low,Low Sugar,Yes
+20468583,Kichererbsen,"Freshona, Sol & Mar",117.0,491.0,15.0,1.2,2.4,0.5,6.3,7.6,0.6,0.0004,,3.0,85.5180309101317,0.08,Low,Low Sugar,No
+3229820780955,Galette Épeautre Son d'Avoine,Bjorg,370.0,1563.0,64.0,0.7,2.9,0.6,17.0,9.8,0.2,0.08,,3.0,0.0,0.0109375,Moderate,Low Sugar,No
+5411188122661,"Alpro Mandeldrink Weiß Ungesüßt, Ungeröstet 1 LT",Alpro,13.0,56.0,0.0,0.0,1.1,0.1,0.5,0.2,0.14,0.056,,4.0,2.3,0.0,Low,Low Sugar,Yes
+5053990167807,Pringles Original,"Kellogg's, Pringles",528.0,2203.0,54.0,0.9,31.0,3.0,6.2,4.1,1.0,0.4,,4.0,0.0,0.016666666666666666,High,Low Sugar,Yes
+8480000205124,Yogur estilo griego natural,Hacendado,129.0,1194.0,3.9,3.9,10.8,6.7,6.5,0.12,0.355,0.138,,3.0,0.0,1.0,Low,Low Sugar,No
+3273220080108,SOJA NATURE SANS SUCRES,Sojasun,32.0,133.0,0.5,0.5,1.8,0.3,3.3,2.5,0.07,0.028,,1.0,0.0,1.0,Low,Low Sugar,No
+3564700257647,Chocolat noir 85% cacao,"Marque Repère, Equador",561.0,2322.0,24.0,16.0,43.0,28.0,11.0,17.0,0.0,0.0,,3.0,0.0,0.6666666666666666,High,Low Sugar,No
+3250390010364,"Fromage blanc 3,2% de matière grasse","Pâturages, Sélection Intermarché",75.0,314.0,4.3,4.3,3.2,2.1,7.2,0.5,0.13,0.052,,3.0,0.0,1.0,Low,Low Sugar,No
+3265479724001,Vinaigrette Balsamique Ciboulette - Echalotes,Puget,304.0,1229.9,2.4,1.4,32.0,3.8,0.3,2.5,2.2,0.88,,4.0,34.6375,0.5833333333333334,Moderate,Low Sugar,Yes
+3017760221597,14 Gaufrettes saveur Cacao,"Brun, Mondelez",512.0,2142.0,62.0,39.0,26.0,16.0,5.6,3.1,0.29,0.116,,4.0,0.0,0.6290322580645161,High,Moderate Sugar,Yes
+8001665705417,Ravioli bio au blé complet épinards ricotta burrata,Giovanni Rana,254.0,1064.0,27.0,4.1,11.0,2.6,9.9,3.7,0.96,0.384,,4.0,19.0,0.15185185185185185,Low,Low Sugar,Yes
+3760049798616,8 Pains au lait frais Bio à la farine complète 280g,la boulangère,359.0,1507.0,49.0,11.0,13.0,1.2,9.4,4.2,0.9,0.36,,4.0,0.0,0.22448979591836735,Moderate,Low Sugar,Yes
+3250392712525,skyr nature 460g,paturage,54.3,226.0,4.4,3.7,0.1,0.0,8.7,0.5,0.08,0.032,,1.0,0.0,0.8409090909090908,Low,Low Sugar,No
+3564707095723,Boisson au soja nature bio,"Bio Village, Marque Repère",37.0,154.0,1.1,0.7,1.8,0.4,3.7,0.7,0.01,0.004,,1.0,8.0,0.6363636363636362,Low,Low Sugar,No
+3560071406073,SKYR Nature,Carrefour,52.0,219.0,4.0,3.6,0.0,0.0,8.9,0.0,0.11,0.044,,1.0,0.0,0.9,Low,Low Sugar,No
+8410376037883,Cookies sin glúten sin azúcares añadidos,Gullón,444.0,1859.0,63.0,0.7,23.0,6.0,5.5,4.5,0.58,0.232,,4.0,0.0,0.01111111111111111,Moderate,Low Sugar,Yes
+3029330068518,Pavé complet 350g,Jacquet,265.0,1119.0,47.0,4.2,2.7,0.4,10.0,6.3,1.2,0.48,,4.0,2.78194444444446,0.08936170212765958,Low,Low Sugar,Yes
+4056489546085,Bio crackers,maître Jean pierre,442.0,1851.0,47.0,2.4,18.0,4.8,18.0,10.0,1.8,0.72,,3.0,15.0,0.05106382978723404,Moderate,Low Sugar,No
+3564707186315,Muesli croustillant 3 noix,"Bio Village, Marque Repère",446.0,1872.0,64.0,17.0,15.0,1.8,11.0,7.6,0.01,0.004,,3.0,9.9,0.265625,Moderate,Low Sugar,No
+5900020043481,Nestle fitness protein cocoa 0% added sugar,,351.0,1477.0,64.1,0.8,5.1,1.4,12.1,12.4,0.89,0.356,,4.0,0.0,0.012480499219968801,Moderate,Low Sugar,Yes
+3392590205765,Pâte à pizza,Croustipate,249.0,1054.0,47.0,4.7,1.3,0.2,7.3,1.8,1.1,0.44,,4.0,1.16666666666667,0.1,Low,Low Sugar,Yes
+7612100018477,Ovomaltine crunchy,Ovo maltine,547.0,2284.0,59.4,50.1,32.4,5.5,3.7,2.5,0.2,0.08,,4.0,10.9715909090909,0.8434343434343434,High,High Sugar,Yes
+3033491704642,Skyr nature 0%,Danone,57.0,243.7,3.9,3.9,0.2,0.1,10.0,2.5,0.0895833333333333,0.0358333333333333,,0.833333333333333,0.0,1.0,Low,Low Sugar,No
+3017760544795,La Paille d'Or aux fraises,"LU, Mondelez",363.0,1539.0,82.0,51.0,1.1,0.2,4.2,1.9,0.22,0.088,,4.0,26.2,0.6219512195121951,Moderate,High Sugar,Yes
+3225355490925,BLE 70CL DELICES AGRUMES PULCO,Pulco,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+3036811363161,Mouliné de 10 légumes,Liebig,37.0,157.0,5.4,1.3,1.1,0.3,0.7,1.2,0.67,0.268,,4.0,55.335,0.24074074074074073,Low,Low Sugar,Yes
+40122274,Cornichons aigres-doux Recette Paysanne,Kûhne,30.0,126.0,4.9,4.7,0.2,0.1,0.9,2.5,1.3,0.52,,4.0,73.1117647058823,0.9591836734693877,Low,Low Sugar,Yes
+3175681257511,Biscuits à l'orange Orange et au graines de Chia,"Gerblé, Gerblé Bio",452.0,1896.0,65.0,18.0,16.0,1.5,8.6,6.6,0.22,0.088,,4.0,0.9,0.27692307692307694,Moderate,Low Sugar,Yes
+3265471024086,Cœur de Tournesol,Lesieur,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,2.0,0.0,0.25943396226415094,Low,Low Sugar,No
+3387390320008,FITNESS CHOC Barres Céréale 6x23.5g,"Fitness,Nestlé",382.0,1609.0,65.5,17.0,9.1,2.9,7.7,7.7,0.33,0.132,,4.0,0.2653808593749965,0.2595419847328244,Moderate,Low Sugar,Yes
+3560071266950,100% Cacao,"Carrefour BIO, Carrefour",61.0,254.0,5.0,4.2,2.1,1.4,4.5,1.9,0.1,0.04,,1.0,0.0,0.8400000000000001,Low,Low Sugar,No
+3760049794380,Pain de mie grandes tranches nature sans sucres ajoutés 500G,Bien,286.0,1206.0,48.0,2.4,6.3,0.6,7.6,3.5,1.1,0.44,,4.0,0.0,0.049999999999999996,Low,Low Sugar,Yes
+7610700015445,50G RICOLA CITRON MELISSE,Ricola,238.0,991.0,97.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,,4.0,0.15,0.0,Low,Low Sugar,Yes
+3038359011481,Sauce basilic aux tomates fraîches de saison,Panzani,62.0,259.0,8.0,6.3,2.3,0.3,1.6,1.3,0.89,0.356,,4.0,93.4,0.7875,Low,Low Sugar,Yes
+3256228686619,"Flocons d'avoine, paquet 500g","U, U Bio",364.0,1533.0,56.0,1.2,6.9,0.6,14.0,11.0,0.01,0.004,,1.0,0.0,0.02142857142857143,Moderate,Low Sugar,No
+3174061039099,Confiture abricot,Léonce Blanc,166.0,705.0,40.0,37.0,0.5,0.1,0.6,1.4,0.03,0.012,,4.0,75.0,0.925,Low,Moderate Sugar,Yes
+3256229255630,Céréales Granola Noix & Graines 350G,U,454.0,1902.0,56.0,13.0,18.0,2.0,13.0,7.7,0.01,0.004,,3.0,11.0,0.23214285714285715,Moderate,Low Sugar,No
+5059319023250,Coco Pop’s Chocos,Kellogg's,380.0,1607.66666666667,76.6666666666667,22.0,2.33333333333333,1.0,10.0,6.0,0.00166666666666667,0.000666666666666667,,13.3333333333333,0.0,0.28695652173913033,Moderate,Moderate Sugar,No
+3700214610480,Sucre Cmplet Muscovado,Alter Eco,394.0,1675.0,98.0,95.0,0.0,0.0,0.5,0.0,0.07,0.028,,2.0,0.0,0.9693877551020408,Moderate,High Sugar,No
+3100881040809,ST YORRE Eau Minérale Naturelle Naturellement Gazeuse 1.15 L,"St yorre,VichyST Yorre",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.427,0.1708,,1.0,0.0,0.25943396226415094,Low,Low Sugar,No
+3608580823513,Confiture fruits rouges intenses,Bonne Maman,165.0,699.0,39.0,39.0,0.2,0.0,0.6,2.3,0.0,0.0,,4.0,0.2653808593749965,1.0,Low,Moderate Sugar,Yes
+8410076421449,Sauce apéritif Guacamole,Old el paso,77.0,321.0,9.5,3.0,3.2,0.6,1.7,1.5,0.85,0.34,,4.0,63.875,0.3157894736842105,Low,Low Sugar,Yes
+20177201,Шоколад с 6% парченца малини,J.D.GROSS,69.0,286.0,4.5,3.6,4.9,3.0,1.0,1.4,0.01,0.004,,4.0,0.0,0.8,Low,Low Sugar,Yes
+3229820794631,Galettes aux 4 céréales.,Bjorg,379.0,1605.4,80.0,0.6,2.2,0.5,8.0,3.5,0.2,0.08,,3.0,0.0,0.0075,Moderate,Low Sugar,No
+3095758914010,Allumettes de Jambon,Fleury Michon,113.333333333333,474.666666666667,1.86666666666667,1.86666666666667,3.73333333333333,1.46666666666667,18.6666666666667,2.5,1.86666666666667,0.746666666666667,,5.33333333333333,1.24289772727273,1.0,Low,Low Sugar,No
+3478820043625,Spaghetti au Quinoa Tomate,"Jardin bio, Léa Nature, Jardin Bio Eric",366.0,1551.0,74.0,2.5,1.9,0.25,11.0,4.5,0.017,0.0068,,4.0,0.0,0.033783783783783786,Moderate,Low Sugar,Yes
+3478822005249,Ketchup,Jardin bio,102.0,430.0,22.0,21.0,0.5,0.1,1.2,2.1,2.3,0.92,,3.0,73.0,0.9545454545454546,Low,Moderate Sugar,No
+3175680018939,Biscuit muesli avoine Gerblé,Gerblé,455.0,1907.0,60.0,14.0,18.0,1.6,9.4,7.7,0.25,0.1,,4.0,18.3625,0.23333333333333334,Moderate,Low Sugar,Yes
+4056489210016,Muesli 4 nuts,"Crownfield,Lidl",454.0,1904.0,61.1,18.1,16.9,4.9,10.3,8.1,0.08,0.032,,4.0,10.17,0.29623567921440264,Moderate,Low Sugar,Yes
+8710605030051,Sriracha Sauce Hot Chilli Sauce,Go-Tan,131.0,548.0,28.0,24.0,0.26,0.0,2.1,0.0,9.835,3.934,,4.0,63.8571428571429,0.8571428571428571,Low,Moderate Sugar,Yes
+3175681225107,"Tendres carrés de blé aux aubergine, poivron,  basilic",Céréal bio,191.0,803.0,19.0,3.9,6.0,0.7,14.0,2.5,0.98,0.392,,4.0,36.7,0.20526315789473684,Low,Low Sugar,Yes
+3175681120556,"Orge, lentilles vertes, riz rouge au naturel",Céréal Bio,164.0,686.0,20.0,0.0,5.8,0.9,4.1,7.7,0.41,0.164,,3.0,11.6,0.0,Low,Low Sugar,No
+3660603081843,Mayonnaise,Bénédicta,653.0,2687.0,2.1,1.3,71.0,5.4,1.2,2.5,1.4,0.56,,4.0,71.3,0.6190476190476191,High,Low Sugar,Yes
+5053990101542,pringles hot & spicy,pringles,486.775015857,2065.66666666667,50.0,2.66666666666667,29.0,3.0,6.66666666666667,3.66666666666667,1.2,0.48,,13.3333333333333,0.0,0.0533333333333334,Moderate,Low Sugar,No
+8410076610614,Sweet & saltynut,Nature Valley,143.0,598.0,12.9,5.8,7.8,2.4,3.7,3.3,0.31,0.124,,4.0,39.0,0.44961240310077516,Low,Low Sugar,Yes
+5449000203823,Pulpy pècne,"Cappy, Coca-Cola",34.0,143.0,7.9,7.9,0.0,0.0,0.0,2.5,0.01,0.004,,4.0,5.5,1.0,Low,Low Sugar,Yes
+8480000868091,Cocktail Natural,Hacendado,651.0,2689.0,14.6,5.2,58.8,20.5,20.4,9.0,0.0,0.0,,1.0,0.2653808593749965,0.35616438356164387,High,Low Sugar,No
+3270160062454,Pommes noisettes,Picard,185.0,773.0,24.0,0.5,8.2,0.7,2.3,2.9,0.4,0.16,,4.0,0.0,0.020833333333333332,Low,Low Sugar,Yes
+3154230809517,HERTA LE BON PARIS Jambon sel réduit x4 - 140g,Herta,108.571428571429,431.0,0.0,0.0,2.0,1.0,21.0,0.0,1.41,0.564,,4.0,0.0736669921875001,0.0,Low,Low Sugar,Yes
+3220035217007,Sucre cassonade,Saint louis,396.0,1683.0,99.0,99.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,0.0,1.0,Moderate,High Sugar,No
+3229820804118,Noisette sans sucres,Bjorg,51.0,216.3,1.9,0.5,4.2,0.4,1.4,0.6,0.05,0.02,,3.0,6.5,0.2631578947368421,Low,Low Sugar,No
+7311070019780,Rollitos de canela IKEA,Rügen,373.0,1559.0,52.0,19.0,14.0,2.5,7.3,0.0,0.76,0.304,,4.0,11.9188425164474,0.36538461538461536,Moderate,Low Sugar,Yes
+4000177158319,Multivitamin Capri-Sun,Capri-Sun,31.0,130.0,7.3,7.3,0.0,0.0,0.0,0.0,0.0,0.0,,4.0,4.7027027027027,1.0,Low,Low Sugar,Yes
+3017760635295,Granola l'original,Lu,491.0,2058.0,62.0,28.0,23.0,12.0,5.9,3.5,1.2,0.48,,4.0,0.0,0.45161290322580644,Moderate,Moderate Sugar,Yes
+5050083739811,Céréales Special K Kellogg's Nature,Kellogg's,375.0,1588.0,79.0,15.0,1.5,0.3,9.0,4.5,1.0,0.4,,3.0,0.0,0.189873417721519,Moderate,Low Sugar,No
+3229820793689,Soja vanille,Bjorg,50.0,210.6,3.9,3.7,2.1,0.4,3.4,1.1,0.07,0.028,,4.0,7.0,0.9487179487179488,Low,Low Sugar,Yes
+8480000125866,Chocolate negro 99% cacao,Hacendado,610.0,2517.0,8.0,1.0,54.0,34.0,15.0,16.0,0.19,0.076,,3.0,0.0,0.125,High,Low Sugar,No
+3445850024023,Sel moulu de Guérande,Le Guérandais,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,85.0,34.0,,2.0,0.0,0.0,Low,Low Sugar,No
+3033491485763,HIPRO Saveur Vanille-Cookie,HiPRO,58.0,246.0,5.3,5.1,0.4,0.3,8.3,2.5,0.17,0.068,,4.0,0.0,0.9622641509433962,Low,Low Sugar,Yes
+3023290027332,Skyr Nature,Siggi's,52.0,221.0,3.5,3.5,0.0,0.0,9.5,2.5,0.1,0.04,,3.0,0.0,1.0,Low,Low Sugar,No
+8722700027775,"Soupe Thai  (Nouilles, champignons et pousses de soja)  د تای سوپ",KNORR,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+3322680010801,Whaou - 8 Crêpes Chocolat,Whaou,465.625,1950.0,59.375,37.5,21.875,5.625,6.5625,2.5,0.65625,0.2625,,12.5,0.0,0.631578947368421,Moderate,Moderate Sugar,No
+3181232138451,Maxi Cheese Burger,Charal,256.0,1042.0,20.0,5.9,13.0,4.8,13.0,2.5,1.38,0.552,,4.0,6.84375,0.29500000000000004,Low,Low Sugar,Yes
+6111032009412,Danone max red fruit,Danone,51.9,217.0,0.0,9.3,1.0,0.85,1.4,0.0,0.0,0.0,,4.0,0.0,0.0,Low,Low Sugar,Yes
+6111126005702,Chergui protéine vanille,Chergui,58.8888888888889,255.588888888889,5.51111111111111,1.08933333333333,0.7,0.0664444444444444,8.0,2.5,0.0666911111111111,0.0266764444444444,,4.0,0.0,0.19766129032258006,Low,Low Sugar,Yes
+6111242926806,FRUT MAX,MARRAKECH,38.0,1194.0,9.5,7.9,0.0,0.0,0.0,2.5,0.25,0.1,,4.0,0.2653808593749965,0.8315789473684211,Low,Low Sugar,Yes
+0769503575261,Filets De Maquereaux À L’huile Végétale,Marsa,217.2,1194.0,0.5,4.4,11.6,1.6,27.1,2.5,11.4075,4.563,,3.0,0.2653808593749965,8.8,Low,Low Sugar,No
+8402001012051,Yogur griego ligero,Hacendado,60.0,254.0,4.7,0.0,2.0,1.4,5.8,0.0,0.0,0.0,,4.0,0.0,0.0,Low,Low Sugar,Yes
+6111126001681,Yaourt Jnane,Chergui,102.0,411.700000055134,14.0,13.680000305176,0.10000000149012,0.0099999997764826,10.0,2.5,0.355,0.138,,4.0,0.0,0.9771428789411428,Low,Low Sugar,Yes
+5900951313592,Twix,Twix,492.0,2073.36,65.2,45.2,23.8,17.3,4.2,1.62,0.49,0.196,,4.0,0.0,0.6932515337423313,Moderate,High Sugar,Yes
+8001665726573,Pâtes fraîches jambon cru,Rana,293.0,1227.0,39.0,4.0,8.3,3.2,15.0,2.2,1.5,0.6,,4.0,0.0,0.10256410256410256,Low,Low Sugar,Yes
+5038862130929,FA-BU-BLEU,Innocent,41.0,172.0,10.0,9.3,0.0,0.0,0.0,2.5,0.0,0.0,,1.0,92.9833333333333,0.93,Low,Low Sugar,No
+4008400402222,Nutella,Ferrero,539.0,2252.0,57.5,56.3,30.9,10.6,6.3,3.0,0.11,0.044,,4.0,13.0,0.9791304347826086,High,High Sugar,Yes
+20656935,Pétillante saveur Citron,Saskia,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.004,,4.0,0.0,0.0,Low,Low Sugar,Yes
+3018930004903,Bretzels d'Alsace maxi,"Dr. Oetker, Ancel",399.0,1685.0,73.0,1.8,6.4,0.6,10.0,4.6,2.5,1.0,,3.0,0.0,0.024657534246575342,Moderate,Low Sugar,No
+3564700014660,Emmental râpé,"Marque Repère, Les Croisés, Scamark (Filiale E. Leclerc)",371.0,1532.0,0.5,0.5,29.0,21.0,27.0,0.5,0.83,0.332,,3.0,0.0,1.0,Moderate,Low Sugar,No
+20003548,,"Choco Nussa,Lidl",551.0,2293.1,57.3,56.1,33.3,6.4,3.7,3.0,0.075,0.012,,4.0,28.0416666666667,0.9790575916230367,High,High Sugar,Yes
+3175680013231,"Gerblé - Choco Hazelnut Filled Cake, 200g (7.1oz)",Gerblé,477.0,1997.4,60.0,31.0,22.0,3.2,7.4,4.7,0.1775,0.071,,4.0,14.9875,0.5166666666666667,Moderate,Moderate Sugar,Yes
+3270190020936,Fromage Blanc Nature 0%,Carrefour Classic,48.0,204.0,4.5,4.0,0.0,0.0,7.5,0.0,0.09,0.036,,3.0,0.0,0.8888888888888888,Low,Low Sugar,No
+3250392550301,Pain grillé au blé complet - BIO,Chabrior,391.0,1628.0,72.0,4.5,4.4,0.5,11.0,6.8,1.4,0.56,,3.0,0.0,0.0625,Moderate,Low Sugar,No
+3229820791845,Soja cuisine semi-épais bio,Bjorg,190.0,783.0,2.9,2.3,18.0,1.7,3.3,1.4,0.18,0.072,,4.0,31.5,0.793103448275862,Low,Low Sugar,Yes
+3273220504055,Fromage blanc,Vrai,76.0,318.5,3.7,3.7,3.6,2.4,7.2,2.5,0.1,0.04,,3.0,0.0,1.0,Low,Low Sugar,No
+8480000505460,Havarti light,Hacendado,267.0,1115.2,1.6,1.2,17.0,12.0,27.0,0.0,0.0115,0.0046,,3.0,0.0,0.7499999999999999,Low,Low Sugar,No
+3019081238704,Sardines à la tomate,Parmentier,181.0,748.7,3.1,1.3,11.0,3.1,17.0,2.5,1.2,0.48,,3.0,4.4,0.41935483870967744,Low,Low Sugar,No
+3175681263130,Biscuits caramel épeautre,Gerblé,437.0,1833.0,62.0,17.0,15.0,1.4,9.2,8.5,0.44,0.176,,4.0,0.0,0.27419354838709675,Moderate,Low Sugar,Yes
+8710637105390,Wraps Multigrains,"Gruma,Mission Wrap",312.0,1316.0,52.0,1.0,7.0,0.9,7.3,6.4,0.92,0.368,,4.0,0.0,0.019230769230769232,Moderate,Low Sugar,Yes
+3302740030932,"Parmentier de saumon, sauce ricotta épinards",Fleury Michon,130.0,545.0,9.5,1.5,7.2,3.6,6.4,1.0,0.67,0.268,,3.0,6.705,0.15789473684210525,Low,Low Sugar,No
+5410188024647,Gazpacho l'original,Alvalle,40.0,168.0,3.5,3.3,2.2,0.4,0.9,1.2,0.62,0.248,,3.0,0.2653808593749965,0.9428571428571428,Low,Low Sugar,No
+3250392538811,SIROP D'AGAVE BIO 250mL,"Intermarché, Regain",46.95,1331.0,76.9,73.8,0.0,0.0,0.02,0.0,0.2,0.08,,1.0,0.0,0.9596879063719115,Low,High Sugar,No
+3497917000136,Chips Paysanne,Brets,530.0,2259.0,51.0,0.4,34.0,2.0,6.0,4.0,1.0,0.4,,3.0,0.0,0.00784313725490196,High,Low Sugar,No
+3478820023757,Lentilles cuisinées aux petits légumes,Jardin BiO étic,19.0,318.0,9.4,0.7,0.9,0.2,5.7,3.5,0.71,0.284,,3.0,24.5485272815065,0.07446808510638298,Low,Low Sugar,No
+6130760003349,جبن طازج,Soummam,85.0,357.9,3.7,3.7,4.5,3.06,7.5,2.5,0.1,0.04,,4.0,0.2653808593749965,1.0,Low,Low Sugar,Yes
+4001724039112,Pizza,Dr. Oetker Ristorante,67.9988150701531,1017.8,23.0,2.8,12.0,3.9,10.0,1.6,1.0,0.4,,3.0,34.38671875,0.1217391304347826,Low,Low Sugar,No
+6111126001582,Lait fermenté,الشرقي,48.0,202.6,5.0,3.4,1.8,0.013,3.0,2.5,0.325,0.13,,1.0,0.0,0.6799999999999999,Low,Low Sugar,No
+6111126000424,Raib banan sghir,CHERGUI,76.0,1194.0,13.0,13.0,1.6,0.0,2.5,2.5,0.0,0.0,,4.0,0.2653808593749965,1.0,Low,Low Sugar,Yes
+8801073116467,Buldak HOT Chicken Flavour Ramen Carbonara Flavour,Samyang,328.461538461538,1787.0,66.0,5.0,15.0,6.0,7.0,2.0,3.0,1.2,,4.0,0.0,0.07575757575757576,Moderate,Low Sugar,Yes
+20840273,Brioche tranchée,Maître Jean Pierre,357.0,1500.1,53.2,10.1,12.4,3.6,7.3,1.6,1.03,0.412,,4.0,4.8791015625,0.18984962406015035,Moderate,Low Sugar,Yes
+8480000180025,Atún claro en aceite de oliva,HACENDADO,446.25,1038.3,0.9,0.3,18.0,2.9,21.0,2.5,0.54,0.216,,3.0,12.635,0.3333333333333333,Moderate,Low Sugar,No
+3045320083453,Pomme vanille,Andros,86.0,362.0,20.0,20.0,0.1,0.0,0.3,1.7,0.0,0.0,,4.0,88.0,1.0,Low,Low Sugar,Yes
+7613036012249,NESQUIK Poudre Cacaotée boîte 500g,Nestlé,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+3168930009788,Quaker Cruesli Chocolat noisette,"Cruesli,PepsiCo,QUAKER,Quarker",446.0,1847.0,62.0,16.0,16.0,2.5,7.4,10.0,0.0,0.0,,4.0,2.3203125,0.25806451612903225,Moderate,Low Sugar,Yes
+8002470030923,Huile d'olive vierge extra Classico,Carapelli,821.0,3374.0,0.0,0.0,91.0,13.0,0.0,2.5,0.0,0.0,,2.0,100.0,0.0,High,Low Sugar,No
+3560070792368,Croustillant Nature,"Carrefour BIO, Carrefour",447.0,1880.0,69.0,16.0,13.0,1.4,8.9,8.1,0.01,0.004,,3.0,0.0,0.2318840579710145,Moderate,Low Sugar,No
+3270190212980,Carottes râpées au jus de citron de sicile,Carrefour,94.0,389.0,4.7,4.4,7.3,0.5,0.9,3.0,0.59,0.272,,4.0,90.966015625,0.9361702127659575,Low,Low Sugar,Yes
+8076809513692,Napoletana,Barilla,9.25,280.5,6.2,5.2,3.7,0.4,1.4,1.8,0.96,0.384,,4.0,87.8,0.8387096774193549,Low,Low Sugar,Yes
+3272770014168,Saint Moret bio,"ST MÔRET, Savencia",238.0,982.0,3.7,3.7,22.0,16.0,6.2,2.5,1.0,0.4,,4.0,0.0,1.0,Low,Low Sugar,Yes
+3292070005178,Tarama Extra,"Delabli, l'atelier Blini",483.0,1995.6,7.8,1.0,46.5,3.4,8.1,0.6,1.11,0.444,,4.0,50.166875,0.12820512820512822,Moderate,Low Sugar,Yes
+3229820112046,Le Biscuit De Natty,Bjorg,499.0,2088.4,61.0,34.0,24.0,14.0,7.4,4.7,0.39,0.156,,4.0,0.0,0.5573770491803278,Moderate,Moderate Sugar,Yes
+5411188121213,GREEK STYLE NATURE,alpro,65.0,265.1,2.2,2.2,3.3,0.6,5.6,1.3,0.325,0.13,,4.0,15.7,1.0,Low,Low Sugar,Yes
+3083681116939,Poêlée Paysanne 750g,Bonduelle,44.6666666666667,281.0,7.4,2.3,2.7,0.7,1.7,3.3,0.71,0.284,,4.0,0.2653808593749965,0.31081081081081074,Low,Low Sugar,Yes
+3336971410027,La Vicoise saveur sel de mer,Vico,480.0,2001.0,50.0,0.64,27.0,2.4,6.2,5.4,0.89,0.356,,3.0,7.0,0.0128,Moderate,Low Sugar,No
+3270160873555,4 Röstis de légumes et cheddar,Picard,118.0,484.9,10.0,1.9,6.2,2.7,3.9,2.4,0.3925,0.157,,3.0,51.4008482142857,0.19,Low,Low Sugar,No
+3154230805984,HERTA TARTE EN OR Pâte Feuilletée sans huile de palme 230g,HERTA,392.6,1641.3,43.0,1.7,20.0,12.0,5.9,1.5,0.89,0.356,,3.0,0.445,0.03953488372093023,Moderate,Low Sugar,No
+5059319030517,kelloggs corn flakes,Kelloggs,378.0,1194.0,84.0,8.0,0.9,0.2,7.0,3.0,1.1,0.44,,3.0,0.2653808593749965,0.09523809523809523,Moderate,Low Sugar,No
+6111246950876,uht jibal 1/2L,Jibal,286.0,1194.0,16.96,4.8,3.0,1.6,3.0,2.5,0.355,0.138,,1.0,0.2653808593749965,0.2830188679245283,Low,Low Sugar,No
+4056489758716,Houmous,"Lidl,Saladinettes",254.0,1052.0,7.5,0.7,19.8,2.0,7.4,8.2,1.18,0.472,,3.0,70.0,0.09333333333333332,Low,Low Sugar,No
+3168930171683,Lays,Lay's,513.0,2141.0,55.0,0.5,29.0,2.1,6.2,5.2,0.65,0.26,,3.0,8.75,0.00909090909090909,High,Low Sugar,No
+6111162001553,Double concentre de tomate,Delicia,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,100.0,0.25943396226415094,Low,Low Sugar,Yes
+3341430551449,TAM THON - Huile,TAM,231.0,966.0,0.0,0.0,14.2,0.001,25.8,0.0,1.0,0.4,,3.0,0.2653808593749965,0.0,Low,Low Sugar,No
+4008400828121,Kinder Maxi,"Ferrero, Kinder, Mixte",566.0,2360.0,53.5,53.3,35.0,22.6,8.7,2.5,0.313,0.1252,,4.0,0.0,0.9962616822429906,High,High Sugar,Yes
+3228021170060,CHAUSSEE AUX MOINES 340g,"Lactalis, chaussée aux moines",305.0,1265.0,0.0,0.0,25.0,18.0,20.0,2.5,1.6,0.64,,3.0,0.0,0.0,Moderate,Low Sugar,No
+8480000095329,Cereal mix 0% azúcares añadidos,Hacendado,372.0,1576.0,80.4,17.1,2.7,0.7,9.4,5.6,0.0,0.0,,4.0,0.0,0.2126865671641791,Moderate,Low Sugar,Yes
+3033491350795,Activia bifidus saveur citron,Danone,51.4340344168259,390.0,12.6,12.6,3.1,2.0,3.6,0.0,0.13,0.052,,4.0,0.0,1.0,Low,Low Sugar,Yes
+3523230014267,Yaourt chèvre nature,Soignon,77.0,322.0,4.2,4.2,4.9,3.4,4.1,2.5,0.09,0.036,,1.0,0.0,1.0,Low,Low Sugar,No
+3259421340012,Madeleines moelleuses nature x 24 sachets de 25 g,Ker Cadélac,469.0,1961.0,51.0,26.0,27.0,2.3,5.3,0.0,1.0,0.4,,4.0,0.0,0.5098039215686274,Moderate,Moderate Sugar,Yes
+3168930000990,3D's Bugles goût nature,"3D's Bugles, BENENUTS, LAYS, Lay's",519.0,2171.0,55.0,3.5,31.0,3.0,5.4,0.7,2.1,0.84,,4.0,0.0,0.06363636363636363,High,Low Sugar,Yes
+20153229,Sonnenmais natursüß,Freshona,70.0,325.0,11.5,5.5,1.7,0.3,2.6,2.8,0.28,0.112,,3.0,0.0,0.4782608695652174,Low,Low Sugar,No
+3760020500559,Coconut milk,"Jardin bio, LEA Nature",170.0,702.0,2.6,2.2,17.0,16.0,1.7,2.5,0.05,0.02,,4.0,0.2653808593749965,0.8461538461538461,Low,Low Sugar,Yes
+20023218,Sauce Tomate Napolitaine,Combino,59.0,217.8,5.1,5.1,2.9,0.4,1.4,2.5,0.7875,0.315,,4.0,88.76015625,1.0,Low,Low Sugar,Yes
+5201054017418,Total 0%,FAGE,54.0,226.1,3.0,3.0,0.0,0.0,10.3,0.0,0.1,0.04,,1.0,0.0,1.0,Low,Low Sugar,No
+3270190136873,Vinaigre de cidre bio,Carrefour BioCarrefour,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,0.0,0.0,Low,Low Sugar,No
+3560070391073,4 Galettes de blé noir,Carrefour BIO,170.0,715.0,31.0,0.5,1.6,0.3,5.8,3.8,1.3,0.52,,3.0,0.0,0.016129032258064516,Low,Low Sugar,No
+3478820023726,Pâtes farcies aux légumes à la sauce tomate bio,Jardin bio,74.0,311.0,12.2,3.3,1.7,0.2,1.8,1.2,0.83,0.332,,3.0,51.0265178571428,0.27049180327868855,Low,Low Sugar,No
+8076809535755,Sauce tomate basilic,Barilla,64.0,268.0,7.6,5.9,2.6,0.3,1.6,1.9,0.9,0.36,,4.0,0.2653808593749965,0.7763157894736843,Low,Low Sugar,Yes
+6111250474405,Peripella,Peripella,555.0,2312.0,53.0,52.0,35.0,4.3,5.1,3.6,0.13,0.052,,4.0,0.2653808593749965,0.9811320754716981,High,High Sugar,Yes
+3023290063873,Skyr mangue passion,siggi's,87.8571428571429,372.0,8.78571428571429,8.28571428571429,1.92857142857143,1.42857142857143,8.92857142857143,0.0,0.0,0.0,,3.0,7.48333333333334,0.943089430894309,Low,Low Sugar,No
+6111203005021,margarine vital 400 g,Vital,514.0,0.0,0.5,0.0,0.0,0.0,0.5,512.0,0.0,0.0,,4.0,0.0,0.0,High,Low Sugar,Yes
+6111252420059,Pepsi 2L,Pepsi,42.0,187.0,11.0,11.0,0.0,0.0,0.0,2.5,0.00571,0.002284,,4.0,0.0,1.0,Low,Low Sugar,Yes
+6111126004538,Daya Ananas Coco,Chergui,74.0,80.8,15.1,8.5,1.2,0.72,2.4,2.5,0.08,0.032,,3.0,4.25,0.5629139072847682,Low,Low Sugar,No
+8717163997345,Original Anti-Perspirant,Dove,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+8402001016400,,Hacendado,597.0,197.3,1.6,1.1,3.9,2.4,1.0,1.1,0.075,0.002,,4.0,0.0,0.6875,High,Low Sugar,Yes
+4335619019287,Huile d'olive vierge extra,Primadonna,824.0,3389.2,0.0,0.0,91.6,13.7,0.0,0.0,0.0,0.0,,2.0,100.0,0.0,High,Low Sugar,No
+5053827101424,Smacks,"Kellogg's, Smacks",377.0,1597.0,81.0,34.0,1.6,0.3,7.1,5.0,0.02,0.008,,4.0,0.0,0.41975308641975306,Moderate,Moderate Sugar,Yes
+3229820791067,Fourrés Myrtilles,Bjorg,431.0,1812.2,67.0,38.0,15.0,3.0,5.4,3.3,0.48,0.192,,4.0,0.8,0.5671641791044776,Moderate,Moderate Sugar,Yes
+3023260030980,Roquefort Société,"Lactalis,Société",365.0,1509.5,0.8,0.0,31.7,22.5,19.0,2.5,8.375,3.35,,3.0,0.0,0.0,Moderate,Low Sugar,No
+3080216043807,Tourtel Twist,"TOURTEL,Tourtel Twist,Tourtel Twist Citron",27.0,114.0,6.4,4.7,0.0,0.0,0.5,2.5,0.0,0.0,,4.0,1.4,0.734375,Low,Low Sugar,Yes
+3038352880206,Ravioli pur bœuf  sans colorant ni conservateur,PANZANI,87.0,384.0,13.0,1.6,2.3,0.8,3.8,0.8,0.9,0.36,,4.0,17.1875,0.12307692307692308,Low,Low Sugar,Yes
+8410376010701,Galleta María,Gullón,408.0,1837.0,75.0,0.5,11.0,1.3,7.0,4.5,1.0,0.4,,4.0,0.0,0.006666666666666667,Moderate,Low Sugar,Yes
+3045320057294,Galettes Pur Beurre,Bonne Maman,513.0,2146.2,63.0,26.0,26.0,15.0,6.0,1.4,0.8,0.32,,3.0,0.0,0.4126984126984127,High,Moderate Sugar,No
+8480000094926,Muesli 50% frutas y frutos secos,Hacendado,367.0,1542.0,60.0,26.0,9.3,5.1,6.8,7.8,0.11,0.044,,3.0,49.75,0.43333333333333335,Moderate,Moderate Sugar,No
+3273220085301,Dessert végétal Noisette-Amande 4 x 100 g,Sojasun,102.0,428.0,14.8,11.6,3.1,0.3,3.4,2.5,0.15,0.06,,4.0,2.0,0.7837837837837838,Low,Low Sugar,Yes
+3165957822017,Filet de sardine,Saupiquet,307.0,1285.0,0.0,0.0,16.0,3.6,21.0,2.5,0.89,0.356,,3.0,25.4725,0.0,Moderate,Low Sugar,No
+3478820003193,Quinoa poulet et sésame,"Jardin bio, Léa Nature",175.0,731.0,18.0,3.0,6.9,1.2,6.9,6.5,0.7,0.28,,3.0,33.85,0.16666666666666666,Low,Low Sugar,No
+3256222646985,Pain de mie sandwich complet 550g,U,262.0,1105.0,42.0,5.4,5.2,0.7,8.4,7.0,1.0,0.4,,4.0,10.4431818181818,0.1285714285714286,Low,Low Sugar,Yes
+8711200552795,Amora Mayonnaise De Dijon Bocal 235g,Amora,700.0,2917.20430107527,2.1505376344086,1.50537634408602,75.2688172043011,6.7741935483871,1.29032258064516,0.645161290322581,1.93548387096774,0.774193548387097,,4.3010752688172,24.4454545454545,0.7000000000000001,High,Low Sugar,No
+3760020508883,Lentilles façon petit salé,"Jardin Bio, Léa nature",135.0,568.0,17.0,0.6,2.3,0.3,8.0,7.2,0.65,0.26,,4.0,41.425,0.03529411764705882,Low,Low Sugar,Yes
+8410076473981,Tortillas sans gluten,Old El Paso,266.0,1125.4,59.2,2.3,1.5,0.6,1.9,3.9,1.17,0.468,,4.0,0.0,0.03885135135135134,Low,Low Sugar,Yes
+5449000052926,Fanta orange 1.5l,Fanta,48.0,203.0,11.7,11.7,0.0,0.0,0.0,0.0,0.0,0.0,,3.0,4.0,1.0,Low,Low Sugar,No
+8000500359488,90G FERRERO ROCHER TABLETTE LT,Ferrero Rocher,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+3560071010522,Houmous,Carrefour,324.0,1340.0,8.5,0.8,28.0,3.6,6.7,5.7,0.94,0.376,,3.0,56.171875,0.09411764705882353,Moderate,Low Sugar,No
+3175681104112,"Purée lentilles corail, potimarron",Céréal Bio,89.0,371.0,8.5,1.4,3.1,0.5,4.5,4.4,0.66,0.264,,3.0,75.2875,0.16470588235294117,Low,Low Sugar,No
+4058172309519,Multivitamin,"Mivolis, dm",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.0,0.25943396226415094,Low,Low Sugar,Yes
+8410076901033,Barrette Proteiche al Caramello Salato,Nature Valley,495.0,2104.0,26.1,15.8,29.5,6.8,26.0,10.7,0.92,0.368,,4.0,47.5975,0.6053639846743295,Moderate,Low Sugar,Yes
+3168930170570,Ice tea,Lipton,1.0,6.0,0.0,0.0,0.0,0.0,0.0,2.5,0.01,0.004,,4.0,0.1,0.0,Low,Low Sugar,Yes
+3497917001874,Chips Nature l’Originale Nutriscore B,Brets,540.0,2250.0,50.0,0.5,34.0,2.8,5.9,5.2,0.6,0.24,,3.0,0.2653808593749965,0.01,High,Low Sugar,No
+6111021012201,Confiture de Fraise,Extra,255.0,1194.0,63.0,62.0,0.0,0.0,0.0,1.0,0.0,0.0,,4.0,0.2653808593749965,0.9841269841269841,Low,High Sugar,Yes
+4056489346364,Coconut And Rice Milk,Vemondo,19.0,80.9,2.8,1.9,0.9,0.9,0.0,2.5,0.295,0.118,,4.0,5.3,0.6785714285714286,Low,Low Sugar,Yes
+6111242109391,Crème cuisson,Jaouda,216.0,1194.0,4.5,0.0,18.0,12.5,9.0,2.5,0.0,0.0,,1.0,0.2653808593749965,0.0,Low,Low Sugar,No
+3330720244031,Myrtille sans sucres ajoutés,Lucien Georgelin,110.0,584.4,27.0,27.0,0.5,0.1,0.5,12.3,0.02,0.008,,4.0,70.8333333333333,1.0,Low,Moderate Sugar,Yes
+8445290503206,Nesquik poche recharge 800g,Nestlé,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+4056489814764,Coconut Quark Dessert,Milbona,20.5544933078394,215.0,3.9,3.5,0.4,0.3,7.4,0.5,0.1,0.04,,4.0,0.0,0.8974358974358975,Low,Low Sugar,Yes
+2006050109876,Noir 85% Cacao,Moser Roth,578.0,2400.0,34.0,28.0,42.0,26.0,9.5,12.0,0.02,0.02,,4.0,0.0,0.8235294117647058,High,Moderate Sugar,Yes
+8901764042904,Thumsup,Coca-Cola,39.0,1194.0,9.7,9.5,0.0,0.0,0.0,0.0,0.055,0.022,,1.0,0.2653808593749965,0.9793814432989691,Low,Low Sugar,No
+8428749800101,senstive skin,sensilis,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+8719200274334,Matière grasse végétale à tartiner,Flora,713.0,2940.0,0.5,0.5,79.0,45.0,0.5,0.0,1.7,0.68,,4.0,23.725,1.0,High,Low Sugar,Yes
+4068262073381,Beurre De Cacahuètes,"Aldi,Trader Joe's",625.956022944551,2608.4,13.0,5.5,50.0,6.5,27.0,9.8,0.01,0.004,,1.0,100.0,0.4230769230769231,High,Low Sugar,No
+3302740084133,Pad Thaï Crevettes,Fleury Michon,122.0,532.0,16.0,3.1,3.7,0.4,5.4,1.4,0.74,0.296,,3.0,30.2887315538195,0.19375,Low,Low Sugar,No
+7613036092487,Le Classique Soja et Blé,"Nestlé, Garden gourmet",191.0,798.0,4.0,3.2,8.7,0.7,21.0,6.4,1.3,0.52,,4.0,19.875,0.8,Low,Low Sugar,Yes
+3068110702235,Farine de blé T45,Francine,335.0,1420.8,70.9,0.7,1.1,0.2,8.4,4.0,0.0,0.0,,1.0,0.0,0.009873060648801127,Moderate,Low Sugar,No
+3245414620131,Pomme,Carrefour,53.0,225.0,12.0,11.0,0.0,0.0,0.0,1.7,0.04,0.016,,1.0,99.9,0.9166666666666666,Low,Low Sugar,No
+3329770047891,,"Yop, Yoplait",65.0,258.2,10.4,10.4,0.8,0.5,3.0,0.1,0.12,0.048,,4.0,0.0,1.0,Low,Low Sugar,Yes
+3056440086392,Kango,"Kango, LU",530.0,2231.0,57.0,34.0,30.0,15.0,5.3,3.1,0.3,0.12,,4.0,4.625,0.5964912280701754,High,Moderate Sugar,Yes
+3265478446003,lesieur,Lesieur,658.0,2695.0,3.0,2.1,71.0,5.4,1.0,0.0,1.3,0.52,,4.0,70.15,0.7000000000000001,High,Low Sugar,Yes
+3038350015006,Spaghetti qualité supérieure 500g,"Ebro Foods, Panzani",361.0,1531.0,72.0,3.7,2.0,0.4,12.0,3.6,0.0,0.0,,1.0,0.0,0.051388888888888894,Moderate,Low Sugar,No
+3068320084602,"Evian Mineralwasser, PET, 1.5L",Evian,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,,1.0,0.0,0.0,Low,Low Sugar,No
+3019080063505,Thon entier au naturel cuisson vapeur,Petit Navire,114.0,482.1,0.0,0.0,0.9,0.3,26.4,0.0,1.0,0.4,,3.0,0.0,0.0,Low,Low Sugar,No
+8480000551085,Fuet Espetec,Hacendado,421.0,1749.0,1.4,1.4,34.0,13.3,27.5,2.5,3.64,1.456,,4.0,0.0,1.0,Moderate,Low Sugar,Yes
+8719200012837,ProActiv Expert Tartine et Gourmet Sans Huile de Palme,"Fruit d'Or ProActiv, Pro activ, ProActiv, ProActiv Expert",490.0,2049.0,0.0,0.0,55.0,12.0,0.0,0.0,0.5,0.2,,4.0,25.0,0.0,Moderate,Low Sugar,Yes
+8410261151625,,"Don Simón,J. Garcia Carrion",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,3.0,0.0,0.25943396226415094,Low,Low Sugar,No
+3178530412840,Sablés framboise sésame,Bonne maman,484.0,2028.0,62.0,32.0,23.0,14.0,6.0,2.5,0.88,0.352,,4.0,18.5979166666667,0.5161290322580645,Moderate,Moderate Sugar,Yes
+9002515600653,Pago - Fraise🍓,Pago,49.0,207.0,12.0,12.0,0.5,0.1,0.5,0.0,0.0,0.0,,4.0,0.2653808593749965,1.0,Low,Low Sugar,Yes
+3564700582596,Pains grillés  Blé complet,"Marque Repère, Epi d'Or",388.0,1635.0,73.0,4.4,4.3,0.5,11.0,6.8,1.6,0.64,,4.0,0.0,0.06027397260273973,Moderate,Low Sugar,Yes
+3045320008920,Confiture châtaigne,Bonne Maman,245.0,1038.0,57.0,46.0,0.9,0.2,0.7,3.0,0.0,0.0,,3.0,18.75,0.8070175438596491,Low,High Sugar,No
+8000500290392,Barre Chocolatée Kinder Bueno Chocolat au Lait,"Kinder, Ferrero, Mixte",572.0,2384.0,49.5,41.2,37.3,17.3,8.6,2.5,0.272,0.1088,,4.0,10.8,0.8323232323232324,High,High Sugar,Yes
+5010292961182,Kimchi,Vadasz,15.0,63.0,1.0,0.0,0.4,0.1,1.1,1.8,2.065,0.826,,3.0,0.2653808593749965,0.0,Low,Low Sugar,No
+3228020481150,Beurre Doux (82% MG) Gastronomique,Président,743.0,3054.4,0.5,0.5,82.0,57.0,0.7,2.5,0.03,0.012,,2.0,0.0,1.0,High,Low Sugar,No
+5000127062092,Bran Flakes,"Kellogg's, Kellog's",358.0,1509.0,65.0,14.0,2.2,0.4,11.0,17.0,0.66,0.264,,4.0,0.0,0.2153846153846154,Moderate,Low Sugar,Yes
+5010003000131,Soft White,Hovis,232.5,994.25,44.75,3.5,1.75,0.25,8.75,2.5,0.8875,0.355,,10.0,0.0,0.0782122905027933,Low,Low Sugar,No
+3023290009086,Secret de Mousse Chocolat Noir,"Nestlé,La Laitière",158.0,673.0,20.6,19.4,5.7,3.8,5.0,2.1,0.15,0.06,,4.0,0.0,0.9417475728155339,Low,Low Sugar,Yes
+3564707000239,Œufs bio x6,"Bio Village, Marque Repère",70.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,1.0,0.0,0.25943396226415094,Low,Low Sugar,No
+8423207201315,Tortitas de maíz,"Bicentury,Nutrition & Santé",379.0,1607.0,81.0,1.0,2.0,0.3,7.7,3.1,1.7,0.68,,4.0,0.5,0.012345679012345678,Moderate,Low Sugar,Yes
+5000168001104,Original Table Water,Carr's,446.666666666667,2146.95652173913,53.4782608695652,3.91304347826087,28.695652173913,13.9130434782609,9.1304347826087,2.60869565217391,1.70652173913043,0.682608695652174,,13.0434782608696,0.0,0.07317073170731711,Moderate,Low Sugar,No
+8711327370708,Chocolate Fudge Brownie,"Ben & Jerry's,Unilever",250.0,1051.0,29.0,27.0,13.0,7.8,4.3,1.74,0.23,0.092,,4.0,0.0,0.9310344827586207,Low,Moderate Sugar,Yes
+5000184321071,Real Mayonnaise,Hellmann's,720.0,3011.0,1.4,1.3,79.0,6.1,1.1,2.5,1.2,0.48,,4.0,0.0,0.9285714285714287,High,Low Sugar,Yes
+3270190007418,Petits pains grilles,Carrefour,407.0,1719.0,73.0,8.6,7.8,0.7,9.5,3.5,1.0,0.4,,4.0,1.875,0.1178082191780822,Moderate,Low Sugar,Yes
+3760049790672,4 Baguettes viennoises complètes sans sucres ajoutés 340g,La Boulangère,314.0,1319.0,40.0,3.6,9.9,1.5,13.0,6.4,0.86,0.344,,4.0,5.7125,0.09,Moderate,Low Sugar,Yes
+7622400013928,Lait Praliné Double Lait,Côte d'Or,530.0,2190.9,58.0,56.0,29.0,14.0,6.3,3.1,0.12,0.048,,4.0,12.0,0.9655172413793104,High,High Sugar,Yes
+3179142720200,Arôme vanille Bourbon,Vahiné,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.0,0.25943396226415094,Low,Low Sugar,Yes
+3179140923061,Chocolat Noir Pépites,Vahiné,504.0,2105.0,54.0,50.0,27.0,17.0,6.9,8.8,0.02,0.008,,4.0,0.0,0.9259259259259259,High,High Sugar,Yes
+3661344795372,Flan bio à la vanille nappé de caramel,Les 2 Vaches,114.0,483.0,18.6,17.4,3.0,2.1,3.2,2.5,0.22,0.052,,4.0,0.2653808593749965,0.9354838709677418,Low,Low Sugar,Yes
+3608580046745,Dessert au lait d'amande et au chocolat,Andros,140.0,596.0,16.6,12.2,7.4,5.3,1.0,1.6,0.15,0.06,,4.0,1.75,0.7349397590361445,Low,Low Sugar,Yes
+3263670125412,Sardines au Piment d'espelette doux,Connetable,260.0,1079.6,0.6,0.6,20.0,4.0,19.0,0.8,2.25,0.9,,3.0,14.0,1.0,Low,Low Sugar,No
+5052910706706,Organic Baked Beans,Tesco,87.0,1194.0,14.0,4.4,0.5,0.1,4.6,3.7,0.4925,0.197,,3.0,0.2653808593749965,0.31428571428571433,Low,Low Sugar,No
+3251320080617,6 oeufs fermiers label rouge de,"Fermiers de Loué, LOUÉ",140.0,584.0,0.3,0.3,9.8,2.6,12.7,0.0,0.3,0.12,,1.0,0.0,1.0,Low,Low Sugar,No
+8410376051940,Mini Bites Quinoa & Chía,Gullón,479.0,2006.0,58.0,6.2,22.0,2.0,8.2,8.3,2.8,1.12,,3.0,1.25,0.10689655172413794,Moderate,Low Sugar,No
+20072360,Danpak Spreadable Slightly Salted,Danpack,707.0,2958.0,0.6,0.6,78.0,38.0,0.5,0.0,0.885,0.354,,2.0,0.2653808593749965,1.0,High,Low Sugar,No
+3250390150589,Emmental français râpé,Pâturages,368.0,1504.0,0.5,0.5,28.0,19.9,27.0,0.5,0.7,0.28,,3.0,0.0,1.0,Moderate,Low Sugar,No
+5010029202410,Weetabix,Weetabix,357.894736842105,1531.0,69.0,4.2,2.0,0.6,12.0,10.0,0.28,0.112,,3.0,0.0,0.06086956521739131,Moderate,Low Sugar,No
+3250390145608,Petits pains grillés au blé complet sans sucres ajoutés,"Chabrior,Sélection Intermarché",389.0,1641.0,68.0,2.8,5.5,0.5,13.0,7.6,1.3,0.52,,3.0,4.8,0.041176470588235294,Moderate,Low Sugar,No
+3017800006481,Légumes cuisinés pour couscous d'aucy 800g,D'aucy,30.0,125.0,3.1,1.8,1.0,0.1,1.2,1.8,0.57,0.228,,3.0,0.2653808593749965,0.5806451612903226,Low,Low Sugar,No
+5018357012350,Gloriously nutty muesli,dorset cereals,415.0,1743.1,54.4,8.4,14.3,2.0,13.2,8.1,0.03,0.012,,4.0,52.8984375,0.15441176470588236,Moderate,Low Sugar,Yes
+4056489182528,Frischei-Waffeln,Rowan Hill Bakery,452.380952380952,1887.2,53.2,27.6,23.3,2.8,7.1,2.5,0.36,0.144,,4.0,12.7222222222222,0.518796992481203,Moderate,Moderate Sugar,Yes
+3564700816479,Wrap,Epi d'Or,328.0,1383.0,55.0,3.2,7.3,0.9,9.4,2.3,0.9,0.36,,4.0,7.2,0.05818181818181818,Moderate,Low Sugar,Yes
+4088600132334,Dark Chocolate,Moser Roth,604.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,16.0,0.0,0.25943396226415094,High,Low Sugar,No
+5059319029702,Rice Krispies,Kellogg's,338.591459528361,1665.66666666667,86.6666666666667,8.0,1.33333333333333,0.333333333333333,7.0,3.0,0.9825,0.393,,10.0,0.0,0.09230769230769227,Moderate,Low Sugar,No
+3560071013042,Muesly croustillant cruchy chocolat noir intense,Carrefour,441.0,1851.0,62.0,19.0,15.0,3.8,10.0,9.0,0.1,0.04,,4.0,0.0,0.3064516129032258,Moderate,Low Sugar,Yes
+5060482841565,Nutty Granola,deliciously ella,465.0,1947.0,61.0,16.0,18.0,2.6,12.0,8.2,0.22,0.088,,3.0,33.0,0.26229508196721313,Moderate,Low Sugar,No
+3302747233022,Le Moelleux -25% de Sel,Fleury Michon,111.0,467.0,10.0,2.4,4.5,0.4,7.7,2.5,1.2,0.48,,4.0,2.88461538461539,0.24,Low,Low Sugar,Yes
+3564700740699,Yaourts à la Grecque,"Délisse, Marque Repère",112.810707456979,472.0,2.8,2.8,10.0,6.5,3.2,0.0,0.1,0.04,,4.0,0.0,1.0,Low,Low Sugar,Yes
+3329770073296,Skyr sur lit au citron,Yoplait,82.0,348.0,11.7,11.1,0.5,0.1,7.8,2.5,0.13,0.052,,4.0,2.95,0.9487179487179488,Low,Low Sugar,Yes
+6132004000022,La Belle Margarine 500g,LA BELLE 220da,752.0,3089.7,0.8,0.8,83.0,30.0,0.3,0.0,0.5,0.2,,4.0,0.0,1.0,High,Low Sugar,Yes
+3083681117158,Poêlée du marché,Bonduelle,50.0,225.0,4.2,2.7,2.2,0.3,2.7,3.3,0.53,0.212,,3.0,0.2653808593749965,0.6428571428571429,Low,Low Sugar,No
+3250391738229,Cookies aux pepites de chocolat bio,"Chabrior,Chabrior Bio,Intermarché,Biscuiterie de l'Abbaye",498.6,2086.0,60.0,33.0,25.0,7.2,6.2,4.4,0.42,0.168,,4.0,10.195,0.55,Moderate,Moderate Sugar,Yes
+3270160113040,Gratin d'aubergines,Picard,136.0,567.0,8.6,2.7,9.2,2.0,4.2,1.2,0.32,0.128,,3.0,87.162890625,0.3139534883720931,Low,Low Sugar,No
+3560070465491,Moutarde à l'ancienne,Carrefour,139.0,576.0,2.3,1.6,10.0,0.9,7.2,5.6,4.8,1.92,,4.0,0.0,0.6956521739130436,Low,Low Sugar,Yes
+3760192498531,Coco nature,YA,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,3.0,98.0,0.25943396226415094,Low,Low Sugar,No
+3256220321372,Café soluble Chicorée - 250g,U,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,1.0,60.0,0.25943396226415094,Low,Low Sugar,No
+3564707111546,Crackers Épeautres 3 Graines,"Bio Village, Marque Repère",460.0,1922.0,48.0,2.3,21.0,2.9,15.0,9.3,1.9,0.76,,3.0,3.6,0.04791666666666666,Moderate,Low Sugar,No
+8002352302001,amandino,damiano,633.0,2620.4,8.5,2.0,53.8,4.6,24.5,8.6,0.01,0.004,,1.0,100.0,0.23529411764705882,High,Low Sugar,No
+3187570015317,Deca Aqua,Malongo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,0.0,0.0,Low,Low Sugar,No
+3256224221302,Yaourt nature 4x125g,U,43.0,182.0,4.7,4.7,1.0,0.7,3.8,0.0,0.12,0.048,,4.0,0.0,1.0,Low,Low Sugar,Yes
+3560071082727,Penne rigate Semi-Complets,"Carrefour BIO,Carrefour",345.0,1460.0,67.0,3.3,1.8,0.1,13.0,5.2,0.03,0.012,,1.0,5.0,0.04925373134328358,Moderate,Low Sugar,No
+3560071175733,Filets de maquereaux blancs,Carrefour Extra,97.0,406.0,0.6,0.0,3.7,1.0,15.0,0.5,0.8,0.4,,4.0,12.0,0.0,Low,Low Sugar,Yes
+3270160860234,Saumon en croûte d'amande,Picard,143.0,597.0,14.0,1.4,7.5,3.3,6.6,1.2,0.56,0.224,,3.0,18.1,0.09999999999999999,Low,Low Sugar,No
+3760087361001,Poudre de cacao cru BIO et EQUITABLE(sans sucre) - sachet,"ETHNOSCIENCE, Ecoidées",363.0,1520.0,25.5,0.77,11.5,7.2,25.6,27.7,0.03,0.012,,1.0,0.0,0.03019607843137255,Moderate,Low Sugar,No
+3564707142977,Boisson Épeautre,"Bio Village, Marque Repère",55.0,230.9,9.8,6.3,1.4,0.2,0.5,0.5,0.1,0.04,,3.0,0.0,0.6428571428571428,Low,Low Sugar,No
+3421557502576,Crok' fondant noisettes,Terres & céréales Bio,437.0,1836.0,59.0,17.0,15.0,2.2,12.0,9.3,0.12,0.048,,4.0,10.0,0.288135593220339,Moderate,Low Sugar,Yes
+3033491728167,Hipro Saveur Coco,Danone,56.166348,253.1,5.5,5.1,0.5,0.3,8.3,2.5,0.17,0.068,,4.0,0.25,0.9272727272727272,Low,Low Sugar,Yes
+3279840003091,Brioche tranchée bio,"Brioche Fonteneau, Brioches Fonteneau",349.0,1434.5,49.0,11.0,12.0,8.2,8.7,1.2,1.0,0.4,,4.0,0.0,0.22448979591836735,Moderate,Low Sugar,Yes
+8720608007417,Yellow Label,Lipton,4.0,17.0,0.5,0.5,0.5,0.1,0.5,0.0,0.01,0.004,,1.0,0.0,1.0,Low,Low Sugar,No
+3073781175011,La Vache qui rit légère 16 portions,"La vache qui rit, bel",152.0,636.0,6.0,6.0,8.0,5.3,14.0,2.5,1.5,0.6,,4.0,0.0,1.0,Low,Low Sugar,Yes
+3265470036301,La mayonnaise classique bio,Lesieur,664.0,2733.0,2.3,1.3,72.0,9.1,1.2,0.0,1.4,0.56,,4.0,0.0,0.5652173913043479,High,Low Sugar,Yes
+7610036002751,Chocolat Villars Lait Suisse 100g,Villars,555.0,2315.0,52.0,51.0,35.0,21.0,7.6,1.9,0.31,0.124,,4.0,0.0,0.9807692307692307,High,High Sugar,Yes
+8480000237736,Chocolate negro 72%,Hacendado,568.0,2356.0,32.0,27.0,42.0,26.0,10.0,11.0,0.03,0.012,,4.0,0.2653808593749965,0.84375,High,Moderate Sugar,Yes
+6111242106932,Jutos,Jaouda تبارك وتعالى,45.0,188.0,11.4,10.7,0.0,0.0,0.0,6111242106933.0,0.5,0.2,,4.0,0.2653808593749965,0.9385964912280701,Low,Low Sugar,Yes
+3033491916526,Skyr Fraise,"Danone,Skyr",75.0,317.0,9.7,9.0,0.2,0.1,8.5,2.5,0.08,0.032,,4.0,5.88125,0.9278350515463918,Low,Low Sugar,Yes
+3270720018082,Amandes grillées,Daco Bello,629.0,2602.0,9.4,4.4,51.0,4.0,27.0,13.0,0.03,0.012,,1.0,100.0,0.46808510638297873,High,Low Sugar,No
+8901009111631,,,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+5060245605397,Micronised Creatine Powder,Optimum Nutrition,286.0,0.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.0,0.25943396226415094,Low,Low Sugar,Yes
+3760324300138,Knax végétales & gourmandes,HappyVore,151.0,628.0,2.5,0.5,9.8,0.7,11.0,4.1,1.6,0.64,,4.0,11.3636363636364,0.2,Low,Low Sugar,Yes
+6111248552122,Thon Entier à l'Huile Végétale,Mario,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+8008343299671,,Rummo,66.922,300.1,6.6,5.0,4.4,0.5,1.1,0.8,1.0,0.4,,3.0,9.85982142857143,0.7575757575757576,Low,Low Sugar,No
+6111266750746,Délice de cacahuètes,Révey,574.0,1194.0,49.0,4.4,41.0,16.0,5.0,2.5,1.0,0.4,,4.0,0.2653808593749965,0.08979591836734695,High,Low Sugar,Yes
+4056489687344,Müesli crunchy,"Crownfield, Lidl",459.0,1924.4,63.4,26.9,17.5,4.9,8.7,6.4,0.33,0.132,,4.0,0.0,0.42429022082018925,Moderate,Moderate Sugar,Yes
+4056489774754,Sirop d'érable,Maribel,360.0,1530.0,90.0,88.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,0.0,0.9777777777777777,Moderate,High Sugar,No
+40879321,Tomates pelées bio,Lidl Baresa,20.0,120.1,4.6,4.6,0.3,0.0,1.2,1.3,0.025,0.01,,1.0,99.9,1.0,Low,Low Sugar,No
+6111252420035,Pepsi 1L,Pepsi,42.0,187.0,11.0,11.0,0.0,0.0,0.0,2.5,0.0,0.0,,4.0,0.2653808593749965,1.0,Low,Low Sugar,Yes
+5900617013064,Sante Baton Proteinowy Go On Kakaowy,Go On,416.0,1792.2,44.0,29.0,17.0,9.2,20.0,9.4,0.01,0.004,,4.0,0.0,0.6590909090909091,Moderate,Moderate Sugar,Yes
+8410111211004,Atún Gran Sabor Isabel,Isabel,198.0,1194.0,0.0,0.0,10.0,1.5,27.0,2.5,1.2,0.48,,4.0,0.2653808593749965,0.0,Low,Low Sugar,Yes
+4056489362821,Quinoa & boulgour,"Golden Sun, Lidl",351.0,1480.0,62.0,6.1,4.0,0.4,12.0,9.3,0.01,0.004,,1.0,0.0,0.09838709677419354,Moderate,Low Sugar,No
+8720182305930,Sauce Algérienne,Amora,293.0,1227.0,13.0,8.9,26.0,2.1,1.0,0.8,1.5,0.6,,4.0,30.7,0.6846153846153846,Low,Low Sugar,Yes
+5711953090875,Puck,Arla Foods,325.0,1372.5,2.5,4.4,32.5,22.5,7.5,2.5,3.25,1.3,,15.0,0.0,1.7600000000000002,Moderate,Low Sugar,No
+3599741006787,Crousti'Express la classique,Findus,257.0,1073.0,28.0,0.5,13.0,1.0,4.0,6.0,0.1,0.04,,4.0,0.0,0.017857142857142856,Low,Low Sugar,Yes
+3154230809272,HERTA LE BON PARIS Jambon à l'étouffée x2 - 85g,"HERTA, Le Bon Paris",104.7,442.1,0.0,0.0,2.3,1.3,21.0,0.0,1.8,0.72,,4.0,0.09140625,0.0,Low,Low Sugar,Yes
+3229820802077,Lait  épeautre  sans  sucre,Bjorg,28.0,127.9,5.5,0.5,0.7,0.1,0.5,2.5,0.125,0.05,,3.0,0.0,0.09090909090909091,Low,Low Sugar,No
+8410510050044,Dulcinea,Dulcinea,539.0,1194.0,61.0,60.0,31.0,3.8,3.3,1.5,0.24,0.096,,4.0,0.2653808593749965,0.9836065573770492,High,High Sugar,Yes
+3504182960345,Tomates cerises allongées,"Azura, Disma International",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,1.0,100.0,0.25943396226415094,Low,Low Sugar,No
+8052575092104,Nocciolata,Rigoni di Asiago,494.0,2067.0,55.0,24.0,25.0,6.8,1.0,3.8,0.51,0.204,,4.0,23.0,0.43636363636363634,Moderate,Moderate Sugar,Yes
+7394376621932,Barista Edition Haferdrink,Oatly!,61.0,256.8,7.1,3.4,3.0,0.3,1.1,0.8,0.1,0.04,,3.0,5.0,0.47887323943661975,Low,Low Sugar,No
+3387390331523,NESTLE CHEERIOS Céréales 375g,"Nestlé, Cheerios",377.0,1592.0,72.5,22.2,3.7,0.7,8.9,9.1,0.63,0.252,,4.0,0.2653808593749965,0.3062068965517241,Moderate,Moderate Sugar,Yes
+3256228666123,Houmous 160g,"U, U Bio",312.0,1292.0,9.5,0.5,27.0,3.3,6.3,5.3,0.86,0.344,,3.0,58.6875,0.05263157894736842,Moderate,Low Sugar,No
+8002802103011,Huile d'olive vierge extra biologique,ELISA,900.0,3700.0,0.0,0.0,100.0,15.0,0.0,0.0,0.0,0.0,,2.0,100.0,0.0,High,Low Sugar,No
+3770008500198,Purée d'amandes complètes toastées,Go Nuts,594.0,2487.0,6.5,4.0,63.0,5.5,17.5,7.7,0.0,0.0,,4.0,0.2653808593749965,0.6153846153846154,High,Low Sugar,Yes
+4056489955184,Confiture d'abricots allégée en sucres,Maribel,165.0,702.0,38.5,37.2,0.2,0.1,0.5,2.5,0.01,0.004,,4.0,64.0,0.9662337662337663,Low,Moderate Sugar,Yes
+3760056266276,Ricotta,CASA AZZURA,95.0,397.5,4.0,2.90000009536743,5.0,3.59999990463257,8.5,2.5,0.23,0.092,,4.0,0.0,0.7250000238418575,Low,Low Sugar,Yes
+4056489920007,Tasty Chocolate Food in A Bottle,Tasty,100.2,418.9,7.0,4.3,4.5,1.9,7.0,1.8,0.000325,0.00013,,0.8,0.0,0.6142857142857142,Low,Low Sugar,No
+3046920014304,Lucky Monkey lait onctueux,Lindt,547.0,2282.0,57.0,56.0,32.0,20.0,6.8,2.5,0.29,0.116,,4.0,0.0,0.9824561403508771,High,High Sugar,Yes
+3760336830685,Funky Veggie - Les POP,Funky Veggie,383.0,1824.0,83.0,19.0,1.5,0.8,7.8,2.1,0.01,0.004,,3.0,0.0,0.2289156626506024,Moderate,Low Sugar,No
+3760341070397,Taureau aile riz complet 500g,Taureau Ailé,357.0,1511.0,74.3,1.6,2.5,0.5,7.5,3.5,0.02,0.008,,4.0,0.0,0.02153432032301481,Moderate,Low Sugar,Yes
+3256224952978,"Pâte à tartiner aux noisettes sans huile de palme, 300g",U,527.0,2200.0,57.0,56.0,30.0,4.0,6.2,3.3,0.11,0.044,,4.0,45.0,0.9824561403508771,High,High Sugar,Yes
+8906010502119,Chataka pataka,Balaji,551.0,55.0,55.5,1.0,32.7,15.0,6.8,1.0,1.0,0.4,,4.0,0.2653808593749965,0.018018018018018018,High,Low Sugar,Yes
+3760341070465,Riz basmati du Penjab,Taureau Ailé,353.0,1500.5,78.0,4.4,0.8,1.6,8.1,0.9,0.01,0.004,,1.0,0.0,0.05641025641025642,Moderate,Low Sugar,No
+3451790153051,Le Léger 20%MG Doux Barquette,"Elle & Vire, Savencia",214.0,883.0,8.1,2.5,20.0,12.2,0.3,0.0,0.5,0.2,,4.0,0.0,0.308641975308642,Low,Low Sugar,Yes
+80042532,Concentrado de tomate,MUTTI,96.0,407.0,17.0,14.0,0.2,0.1,4.2,2.5,0.5,0.2,,3.0,99.5,0.8235294117647058,Low,Low Sugar,No
+3017760307499,Belvita Petit-Déjeuner Original,"BelVita, LU",435.0,1828.0,66.0,20.0,14.0,1.5,7.8,6.8,0.98,0.392,,4.0,0.0,0.30303030303030304,Moderate,Low Sugar,Yes
+3329778164064,Yop parfum vanille,Yoplait,66.0,278.0,10.6,10.4,0.8,0.5,3.0,2.5,0.12,0.048,,4.0,0.0,0.9811320754716982,Low,Low Sugar,Yes
+3033491432736,Danette crème dessert noir extra,"Danette, Danette creme dessert, Danone",127.0,535.0,19.0,16.5,3.7,2.4,3.7,2.5,0.19,0.076,,4.0,0.0,0.868421052631579,Low,Low Sugar,Yes
+3498425800058,Pain d'Épices au Miel,Brossard,297.0,1243.0,66.0,36.0,1.1,0.3,3.0,5.7,0.5,0.2,,4.0,0.0442708333333286,0.5454545454545454,Low,Moderate Sugar,Yes
+3175681121201,Biscuit quinoa cacao,Gerblé,452.0,1892.0,58.0,16.0,18.0,3.0,9.5,9.8,0.73,0.292,,4.0,16.6,0.27586206896551724,Moderate,Low Sugar,Yes
+7613035268388,Chocolate con Leche,Nestlé Extrafino,538.0,2248.0,58.9,57.7,30.3,17.4,6.3,2.0,0.13,0.052,,4.0,0.0,0.9796264855687606,High,High Sugar,Yes
+8722700202387,Amora Moutarde Douce Flacon Souple 260g,Amora,198.0,828.0,5.7,4.4,16.0,1.1,5.2,2.1,4.4,1.76,,4.0,0.0,0.7719298245614036,Low,Low Sugar,Yes
+3255290250285,Madeleines longues - Perles de sucre,"Le Ster, le pâtissier",442.0,1882.0,59.0,30.0,20.0,1.9,5.8,1.3,0.95,0.38,,4.0,21.0,0.5084745762711864,Moderate,Moderate Sugar,Yes
+8480000106780,Leche Desnatada Proteínas y Calcio,HACENDADO,44.0,187.6,4.6,4.6,0.2,0.1,6.0,2.5,0.1275,0.051,,4.0,0.0,1.0,Low,Low Sugar,Yes
+3045320074895,Marmelade Oranges🍊 Amères  Bonne Maman,Bonne Maman,240.0,1017.0,59.0,59.0,0.1,0.0,0.3,0.7,0.0,0.0,,4.0,0.2653808593749965,1.0,Low,High Sugar,Yes
+3123937110004,Dégustation Fruité & Gourmand,Entremont,347.0,1441.0,0.5,0.5,27.0,17.0,26.0,0.0,0.7,0.28,,3.0,0.0,1.0,Moderate,Low Sugar,No
+8480000171283,Tomate frito con aceite de oliva,Hacendado,77.0,316.5,9.5,6.9,3.5,0.3,1.5,2.5,1.0,0.4,,4.0,95.5,0.7263157894736842,Low,Low Sugar,Yes
+3023290234860,la laitière nature x4,"Nestlé,La Laitière",66.0,274.0,3.7,3.7,3.8,2.5,3.2,0.0,0.13,0.052,,1.0,0.0,1.0,Low,Low Sugar,No
+3599740007266,Tranches panées de Cabillaud MSC,Findus,177.0,742.0,15.0,0.6,6.5,0.5,14.0,1.0,0.54,0.216,,4.0,8.15,0.04,Low,Low Sugar,Yes
+3045320076127,Compote de pommes morceaux,Andros,81.0,344.0,19.0,19.0,0.1,0.0,0.2,1.1,0.0,0.0,,3.0,87.0,1.0,Low,Low Sugar,No
+3273220540855,YAOURT CHEVRE BIO,Vrai,77.0,319.0,3.5,3.5,4.9,3.8,4.6,2.5,0.07,0.028,,1.0,0.0,1.0,Low,Low Sugar,No
+3297760097990,Pommes Myrtille SSA,Charles & Alice,55.0,256.0,13.0,11.0,0.5,0.1,0.5,1.0,0.01,0.004,,4.0,98.8,0.8461538461538461,Low,Low Sugar,Yes
+3045320094084,Raspberry Conserve,Bonne Maman,239.0,1016.0,57.0,57.0,0.2,0.0,0.7,3.4,0.0,0.0,,4.0,0.2653808593749965,1.0,Low,High Sugar,Yes
+3116740033899,Lutti guimauve chocolat,Lutti,386.0,1628.0,69.0,61.0,10.0,6.1,5.2,2.5,0.1,0.04,,4.0,0.0,0.8840579710144928,Moderate,High Sugar,Yes
+7622210103505,Queso untar light formato familiar,PHILADELPHIA,920.0,637.0,4.4,4.0,12.0,8.1,5.9,0.3,1.1,0.44,,4.0,11.95,0.9090909090909091,High,Low Sugar,Yes
+5053827199469,Céréales Trésor Kellogg's Chocolat Noisettes,Kellogg's,437.0,1838.0,69.0,26.0,14.0,3.5,7.0,3.5,1.1,0.44,,4.0,2.58333333333333,0.37681159420289856,Moderate,Moderate Sugar,Yes
+5013665108344,Smooth Organic Peanut Butter,Whole Earth,618.0,2558.5,10.5,5.4,50.3,15.3,26.9,7.7,0.6775,0.271,,3.0,91.0,0.5142857142857143,High,Low Sugar,No
+20692230,Skyr Natural,Milbona,62.0,263.0,4.0,4.0,0.2,0.1,11.0,0.0,0.13,0.052,,3.0,0.0,1.0,Low,Low Sugar,No
+3033491225284,Danonino aux fruits panache 50 g x 12,"Danone, Danonino, Danonino fruits",103.0,433.0,12.7,12.1,2.9,2.0,6.4,2.5,0.08,0.032,,4.0,25.1935546875,0.952755905511811,Low,Low Sugar,Yes
+3608580908197,riz au lait a la vanille naturelle,Bonne Maman,155.0,650.0,22.0,14.0,5.9,3.8,3.3,0.2,0.08,0.032,,4.0,0.0,0.6363636363636364,Low,Low Sugar,Yes
+5000354908248,Original Custard powder,Bird's,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+3421557502453,Muesli croustillant avoine myrtilles chia,"Terres et Céréales, Terres et Céréales Bio",443.0,1860.0,65.0,22.0,15.0,1.7,8.0,7.7,0.04,0.016,,3.0,9.0,0.3384615384615385,Moderate,Moderate Sugar,No
+5010477353115,Crunchy Oat Granola Raisin & Almond,Jordans,416.0,1768.6,64.0,21.0,12.0,1.5,11.0,6.2,0.03,0.012,,4.0,15.75,0.328125,Moderate,Moderate Sugar,Yes
+3250390859963,Bâtonnets de surimi,Odyssée,119.0,497.9,9.5,3.3,5.3,0.4,7.5,1.6,1.4,0.56,,4.0,1.65,0.34736842105263155,Low,Low Sugar,Yes
+3560070957248,Mayonnaise à la moutarde de Dijon,Crf,286.0,1180.0,8.6,3.6,28.0,2.3,0.7,0.5,1.7,0.68,,4.0,22.85,0.4186046511627907,Low,Low Sugar,Yes
+20995751,bio vollkorn penne,Lidl,343.0,1452.3,65.0,4.3,1.9,0.6,13.0,7.0,0.0,0.0,,1.0,0.0,0.06615384615384615,Moderate,Low Sugar,No
+20103699,,"Vitasia, Combino, Vitasia China, Vitasia Chinese Style",364.0,1522.8,75.6,1.7,1.0,0.4,11.8,0.0,0.42,0.168,,4.0,0.0,0.02248677248677249,Moderate,Low Sugar,Yes
+3560070672707,Miel de fleurs liquide,"Carrefour BIO,Carrefour",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.0,0.25943396226415094,Low,Low Sugar,Yes
+3228022000298,Beurre Léger Doux 40% MG,Président,375.0,1545.0,3.0,0.0,40.0,26.0,0.8,2.5,0.4,0.16,,4.0,0.0,0.0,Moderate,Low Sugar,Yes
+3029330070054,Burger creation nature x4 260g,Jacquet,289.0,1220.0,48.0,8.5,6.1,2.0,8.2,4.8,1.1,0.44,,4.0,3.882568359375,0.17708333333333334,Low,Low Sugar,Yes
+4088600003429,Houmous,"The Deli,aldi",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,6.0,69.5,0.25943396226415094,Low,Low Sugar,No
+3564707119221,Crackers Emmental Graines de Courge,"Bio Village, Marque Repère",437.0,1831.0,48.0,2.4,17.0,4.8,18.0,10.0,1.9,0.76,,3.0,11.05,0.049999999999999996,Moderate,Low Sugar,No
+5023762000113,Fruity Black Currants,Rocks,18.0,1194.0,4.3,4.3,0.0,0.0,0.0,2.5,0.0,0.0,,4.0,0.2653808593749965,1.0,Low,Low Sugar,Yes
+5449000006271,Fanta orange,Fanta,18.0,205.0,4.5,11.8,0.0,0.0,0.0,2.5,0.0,0.0,,4.0,8.5,2.6222222222222222,Low,Low Sugar,Yes
+3011360030474,Mayonnaise classique,Lesieur,658.0,2691.6,2.8,2.1,71.0,5.4,1.0,2.5,1.3,0.52,,4.0,70.15,0.7500000000000001,High,Low Sugar,Yes
+20039639,Yaourt à la vanille,Milbona,95.0,400.0,14.0,13.0,3.0,2.2,3.0,2.5,0.09,0.036,,3.0,0.0,0.9285714285714286,Low,Low Sugar,No
+3560071013110,Stylesse Fruits rouges,Carrefour,371.0,1572.0,78.0,17.0,1.4,0.3,8.1,7.0,0.76,0.304,,3.0,0.0,0.21794871794871795,Moderate,Low Sugar,No
+3104710011831,Moutarde aigre-douce,Kühne,148.0,598.8,24.9,24.4,2.4,0.1,5.1,2.5,3.6,1.44,,4.0,0.0,0.9799196787148594,Low,Moderate Sugar,Yes
+3095758050015,Le Torchon - Cuit à l'Etouffée  - 25% de sel*,Fleury Michon,115.0,486.0,0.5,0.5,2.8,1.0,22.0,2.5,1.4,0.56,,4.0,2.10663452148437,1.0,Low,Low Sugar,Yes
+5056053305703,Classic Chicken,New Covent Garden Soup Co,51.0714285714286,1194.0,5.53571428571429,0.571428571428571,2.28571428571429,1.42857142857143,1.96428571428571,0.142857142857143,0.124107142857143,0.0496428571428571,,1.07142857142857,0.2653808593749965,0.10322580645161274,Low,Low Sugar,No
+8410376042481,Sandwich sabor yogurt,gullón,418.181818181818,1757.0,65.0,3.8,17.0,2.2,7.0,7.7,0.55,0.22,,4.0,0.0,0.05846153846153846,Moderate,Low Sugar,Yes
+3599741003359,Colin d'Alaska façon Fish and Chips,Findus,230.0,960.0,19.0,0.6,12.0,0.9,11.0,0.8,1.0,0.4,,4.0,13.0984848484848,0.031578947368421054,Low,Low Sugar,Yes
+8712857005900,Aloe Vera Drink,Aloi,20.0,85.24,5.0,4.9,0.0,0.0,0.0,0.03,0.04,0.016,,4.0,30.0,0.9800000000000001,Low,Low Sugar,Yes
+8076809542753,Pan Goccioli,Mulino Bianco,795.238095238095,1400.0,46.0,16.0,12.0,3.5,8.3,4.8,0.85,0.34,,4.0,0.0,0.34782608695652173,High,Low Sugar,Yes
+3033710076505,"NESCAFÉ NES, Café Soluble,",Nescafé,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+3229820794570,Tagliatelle de Konjac,Gayelord Hauser,0.625,61.25,0.125,0.0,0.0,0.0,0.0,2.875,0.0125,0.005,,0.625,0.0,0.0,Low,Low Sugar,No
+3023290038307,Skyr Nature,siggi's,52.0,221.0,3.5,3.5,0.0,0.0,9.5,0.0,0.1,0.04,,3.0,0.0,1.0,Low,Low Sugar,No
+5036829756328,Mediterranean Falafel,Gosh!,261.0,1087.0,22.0,1.5,14.3,0.9,7.6,7.3,1.18,0.472,,3.0,0.2653808593749965,0.06818181818181818,Low,Low Sugar,No
+5411188553304,Soia,alpro,39.0,163.0,2.5,2.5,1.7,0.3,3.0,0.5,0.09,0.036,,4.0,8.0,1.0,Low,Low Sugar,Yes
+3564707127837,Huile d'olive,"Bio Village, Marque Repère",819.0,3367.0,0.0,0.0,91.0,15.0,0.0,0.0,0.0,0.0,,2.0,100.0,0.0,High,Low Sugar,No
+3250390114178,Pâte à tartiner 13% SHP - 750g,"Intermarché, Ivoria",529.0,2286.0,53.0,52.0,34.0,5.8,6.4,2.9,0.12,0.048,,4.0,29.2916666666667,0.9811320754716981,High,High Sugar,Yes
+7610036002805,Noir aux Pépites de Café,Villars,520.0,2190.0,50.0,45.0,34.0,20.0,4.6,6.7,0.03,0.012,,4.0,0.0,0.9,High,High Sugar,Yes
+3256225042104,Pois chiches - Boîte 265g,U,122.0,512.0,15.0,0.5,2.7,0.3,6.7,5.5,0.41,0.164,,3.0,85.5802511513487,0.03333333333333333,Low,Low Sugar,No
+5055953900582,Russian Earl Grey,Twinings,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,1.0,1.0,0.25943396226415094,Low,Low Sugar,No
+5055958706288,Smoky Barbecue Crunch,graze,464.0,1944.0,67.0,5.1,17.2,2.0,9.6,7.4,0.74,0.296,,4.0,0.2653808593749965,0.07611940298507462,Moderate,Low Sugar,Yes
+3250390600848,Extra Moelleux complet 500g,"Chabrior, Intermarché",247.0,1043.0,41.0,4.6,3.1,0.3,10.0,7.9,1.1,0.44,,4.0,2.28333333333333,0.1121951219512195,Low,Low Sugar,Yes
+3760091726414,Chocolat lait commerce équitable,Ethiquable,592.0,2477.0,36.0,33.0,44.0,27.0,9.4,7.9,0.15,0.06,,3.0,0.0,0.9166666666666666,High,Moderate Sugar,No
+8410261641416,,"Don Simón,J. Garcia Carrion",20.0,85.0,4.8,4.8,0.1,0.0,0.0,2.5,0.03,0.012,,4.0,2.8125,1.0,Low,Low Sugar,Yes
+4056489695387,Boisson au soja,Vemondo,32.0,130.9,1.0,0.4,1.7,0.2,3.0,0.2,0.08,0.032,,3.0,9.7,0.4,Low,Low Sugar,No
+6194043001668,Lait demi écrémé UHT,délice,43.5,183.0,4.5,4.5,1.5,1.6,3.0,2.5,0.0,0.0,,4.0,0.2653808593749965,1.0,Low,Low Sugar,Yes
+3248830770718,"Nouilles à la Chinoise au Poulet, légumes croquants",Marie,102.0,430.0,14.0,2.2,2.5,0.4,5.0,1.8,0.67,0.268,,3.0,0.2653808593749965,0.15714285714285717,Low,Low Sugar,No
+8076809521543,Ricotta,Barilla,97.0,402.4,6.8,5.0,5.8,1.9,3.4,1.8,1.25,0.393,,4.0,0.2653808593749965,0.7352941176470589,Low,Low Sugar,Yes
+3083681139723,Lunch bowl Légumes & épeautre 250g,Bonduelle,126.0,529.0,20.0,1.6,2.2,0.4,4.7,3.5,0.82,0.328,,3.0,0.2653808593749965,0.08,Low,Low Sugar,No
+4000405002360,Vegane Pommersche - Schnittlauch,Rügenwalder Mühle,221.0,916.0,7.3,0.7,17.0,1.2,7.2,5.1,2.1,0.84,,4.0,28.95,0.0958904109589041,Low,Low Sugar,Yes
+3256225736478,Falafels bon et végétarien - 200g,"U,U Bon & Végétarien",222.0,923.0,15.0,1.7,14.0,1.6,6.9,5.5,0.73,0.292,,4.0,80.6377136752137,0.11333333333333333,Low,Low Sugar,Yes
+8480000867551,Mermelada de fresa,Hacendado,194.0,823.0,47.0,46.0,0.0,0.0,0.5,2.5,0.03,0.012,,4.0,0.2653808593749965,0.9787234042553191,Low,High Sugar,Yes
+2006050106639,Skyr,MILSANI,57.0,242.9,3.2,3.2,0.5,0.1,10.0,0.0,0.1075,0.043,,3.0,0.0,1.0,Low,Low Sugar,No
+3175681272958,"Gerble - Organic Oatmeal Coconut Cocoa Cookie, 132g (4.7oz)",Gerblé,460.0,1926.8,63.0,16.0,18.0,6.1,8.2,6.3,0.37,0.148,,3.0,8.6,0.25396825396825395,Moderate,Low Sugar,No
+3178530420395,La madelein coeur chocolat,Bonne Maman,420.0,1812.1,53.0,29.0,22.0,8.2,5.1,1.3,0.7,0.28,,4.0,1.5,0.5471698113207547,Moderate,Moderate Sugar,Yes
+8410199271396,Doritos Tex-mex,Doritos,479.545454545455,2018.40909090909,61.3636363636364,3.63636363636364,22.0454545454545,2.27272727272727,6.81818181818182,5.45454545454545,0.869318181818182,0.347727272727273,,9.09090909090909,0.0,0.059259259259259275,Moderate,Low Sugar,No
+4066447468342,Bio-Erdnussmus,"DmBio,Dm",630.0,2608.7,7.1,5.9,52.0,11.0,28.0,11.0,0.01,0.004,,1.0,100.0,0.8309859154929579,High,Low Sugar,No
+3250391376261,Creme fraiche 30% mg epaisse bio 20cl,Pâturages,292.0,1205.0,3.3,2.7,30.0,21.0,2.3,0.0,0.07,0.028,,1.0,0.0,0.8181818181818182,Low,Low Sugar,No
+3760226260493,Tablette de chocolat 62% de cacao et sésame torréfié,Grain de Sail,571.0,2392.0,37.0,33.0,42.0,23.0,7.0,11.0,0.1,0.04,,4.0,0.0,0.8918918918918919,High,Moderate Sugar,Yes
+0089686120714,Instant Fried Noodles Mi Goreng,Indomie,475.0,2016.25,61.25,10.0,21.25,11.2,8.75,5.0,3.25,1.3,,5.0,1.7409090909091,0.16326530612244897,Moderate,Low Sugar,No
+3273220135709,Crème au chocolat,Tante Hélène,146.0,616.3,19.8,13.7,5.5,3.7,3.4,2.3,0.09,0.036,,3.0,0.0,0.6919191919191918,Low,Low Sugar,No
+3017800509968,Aubergines cuisinées à la provençale d'aucy 380g,D'aucy,72.0,297.0,5.1,5.1,4.6,0.6,1.1,2.7,0.59,0.236,,3.0,0.2653808593749965,1.0,Low,Low Sugar,No
+3092718637002,sirop de citron,Teisseire,281.0,1194.0,66.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,,4.0,0.0,0.9848484848484849,Low,High Sugar,Yes
+6111126002299,Fawakih,Chergui,51.0,1194.0,11.5,11.5,0.1,0.0,1.0,2.5,0.0,0.0,,4.0,0.2653808593749965,1.0,Low,Low Sugar,Yes
+8412600038635,Natural 100%,Bimbo,250.0,1053.0,42.0,5.8,3.2,0.6,11.0,6.1,1.2,0.48,,4.0,0.0,0.1380952380952381,Low,Low Sugar,Yes
+8402001012310,Crema de calabacín,Hacendado,36.0,150.0,5.5,2.5,1.0,0.2,0.3,1.8,0.59,0.236,,3.0,0.2653808593749965,0.45454545454545453,Low,Low Sugar,No
+8009750923845,Crema di nocciole,Euro Company,703.0,2903.0,8.5,4.1,66.0,5.7,16.0,5.6,0.0,0.0,,1.0,100.0,0.48235294117647054,High,Low Sugar,No
+6291003206122,Roxta,Piccadeli,520.0,1194.0,64.0,54.9,25.2,13.1,3.3,0.9,0.525,0.21,,4.0,0.2653808593749965,0.8578125,High,High Sugar,Yes
+6111252420240,7up lemon 1.5L,7up,19.0,85.0,5.0,5.0,0.0,0.0,0.0,2.5,0.022,0.022,,4.0,0.0,1.0,Low,Low Sugar,Yes
+6111250010276,le vrai leben,Albane,209.0,51.0,5.9,0.0,1.6,1.0,3.2,2.5,0.0,0.0,,1.0,0.2653808593749965,0.0,Low,Low Sugar,No
+3336972211098,Pistaches grillees,Vico,344.444444444444,2607.0,16.0,6.0,53.0,6.1,20.0,6.3,0.0,0.0,,1.0,100.0,0.375,Moderate,Low Sugar,No
+3760077538680,Pesto rosso,Florelli,270.0,1152.0,10.0,6.1,24.0,2.9,4.2,2.8,1.8,0.72,,3.0,70.1875,0.61,Low,Low Sugar,No
+3560071254179,Riz basmati complet,"Carrefour BIO,Carrefour",366.0,1549.0,73.0,0.5,2.6,0.8,11.0,3.5,0.01,0.004,,1.0,0.0,0.00684931506849315,Moderate,Low Sugar,No
+4056489689720,HIGH PROTEIN SOYA DRINK SWEETENED,Vemondo,49.8,209.0,2.5,2.4,2.2,0.3,5.0,0.0,0.21,0.084,,4.0,22.0,0.96,Low,Low Sugar,Yes
+5411188139560,,Alpro,58.5714285714286,342.0,7.0,6.8,2.3,0.4,7.5,1.1,0.1775,0.071,,4.0,13.825,0.9714285714285714,Low,Low Sugar,Yes
+3329770087316,Skyr fruit rouge,Yoplait,82.0,347.0,11.6,11.0,0.5,0.1,7.8,0.0,0.12,0.048,,4.0,15.7583333333333,0.9482758620689655,Low,Low Sugar,Yes
+8076809583367,Pâtes farfalle generose collezione 500g,Barilla,359.0,1521.0,71.0,3.5,2.0,0.5,13.0,3.0,0.01,0.004,,1.0,0.0,0.04929577464788732,Moderate,Low Sugar,No
+3073781191547,Cheez Dippers,La Vache Qui Rit,263.0,1100.0,25.5,5.5,13.0,7.5,10.5,1.0,1.3,0.52,,11.4285714285714,0.0,0.21568627450980393,Low,Low Sugar,No
+3375610002346,Skyr soja nature,Les Prés d'Ariège,63.0,1194.0,1.6,0.2,3.4,0.5,6.5,2.5,0.01,0.004,,1.0,0.2653808593749965,0.125,Low,Low Sugar,No
+6111246720059,Beat Fromage Blanc,Beat,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+3760341070670,Taureau aile doypack basmasti epices du monde 220g,Taureau Ailé,132.0,559.0,25.0,0.0,2.3,0.2,2.6,0.6,0.4,0.16,,4.0,2.87875,0.0,Low,Low Sugar,Yes
+0769503575087,Thon,Garcia,176.2,1194.0,0.9,4.4,4.4,1.6,33.4,2.5,0.355,0.138,,4.0,0.2653808593749965,4.888888888888889,Low,Low Sugar,Yes
+8424790117007,Kefir,Pastores,65.0,272.0,3.8,1.08,3.8,2.7,3.4,2.5,0.04,0.016,,4.0,0.2653808593749965,0.2842105263157895,Low,Low Sugar,Yes
+3154230811459,HERTA LE BON PARIS Jambon sel réduit sans nitrite 8T - 280g,"HERTA, Le Bon Paris",102.0,431.0,0.0,0.0,2.0,0.0,21.0,0.0,1.375,0.55,,4.0,0.0,0.0,Low,Low Sugar,Yes
+3083681177763,Chili de haricots rouges a la mex,Cassegrain,67.0,281.0,10.0,1.7,0.3,0.1,4.0,4.0,0.88,0.352,,3.0,0.2653808593749965,0.16999999999999998,Low,Low Sugar,No
+20298036,Biscottes aux céréales et aux graines,Maître Jean Pierre,405.0,1705.0,61.0,4.0,10.0,1.2,14.0,7.5,1.7,0.68,,4.0,1.525,0.06557377049180328,Moderate,Low Sugar,Yes
+20918279,Bio Knäckebrot,"Grafschafter,Maître Jean Pierre,Bio Organic,Lidl",445.0,1864.0,47.6,4.4,18.0,6.7,18.0,10.3,1.5,0.6,,3.0,2.7,0.09243697478991597,Moderate,Low Sugar,No
+3123930710737,L'emmental français extra fin,EntreMont,369.0,1532.0,0.5,0.5,29.0,19.0,27.0,2.5,0.7,0.28,,3.0,0.0,1.0,Moderate,Low Sugar,No
+3017760329798,Pockitos Chocolat au lait,"Lu,Mondelez,Pépito",522.033898305085,2174.91525423729,57.6271186440678,37.2881355932203,29.1525423728814,15.9322033898305,5.42372881355932,3.05084745762712,0.26271186440678,0.105084745762712,,13.5593220338983,3.66666666666667,0.647058823529411,High,Moderate Sugar,No
+8410109000658,Cacao puro en polvo desgrasado,Valor,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+11239303,"Trio gourmand - Tomme fruitée, emmental, gruyère IGP France",Entremont,358.0,1486.5,0.5,0.5,28.0,18.0,26.0,2.5,0.8,0.32,,3.0,0.0,1.0,Moderate,Low Sugar,No
+5449000017888,Coca-Cola 1 Liter,Coca-Cola,42.0,180.0,10.6,10.6,0.0,0.0,0.0,0.0,0.0,0.0,,4.0,0.0,1.0,Low,Low Sugar,Yes
+3178530416527,La Galette gourmande chocolat noir,St Michel,486.0,2042.0,71.0,30.0,19.0,12.0,6.2,3.3,0.65,0.26,,4.0,0.0,0.4225352112676056,Moderate,Moderate Sugar,Yes
+5000184201199,Marmite Yeast Extract,Marmite,260.0,1134.5,30.0,1.2,0.5,0.1,34.0,3.5,10.8,4.32,,36.3636363636364,12.5,0.04,Low,Low Sugar,No
+3394230110613,Le Chèvre Typé et Crémeux,Soignon,276.0,1146.0,0.5,0.5,22.0,15.0,19.0,2.5,1.5,0.6,,3.0,0.0,1.0,Low,Low Sugar,No
+5013665109389,SMOOTH PEANUT BUTTER,WHOLE EARTH,646.0,2672.0,9.2,29.0,54.5,7.2,26.3,6.5,0.69,0.276,,3.0,74.655,3.1521739130434785,High,Moderate Sugar,No
+3103220045640,Schtroumpfs,Haribo,332.0,1411.0,75.0,43.0,0.5,0.1,6.6,2.5,0.03,0.012,,4.0,1.05934495192307,0.5733333333333334,Moderate,High Sugar,Yes
+3038359007217,Rice Basmati,Taureau Ailé,351.0,1490.0,77.0,0.1,0.8,0.4,8.7,0.4,0.0,0.0,,1.0,0.0,0.0012987012987012987,Moderate,Low Sugar,No
+3660603005122,Mayonnaise,Bénédicta,646.0,2700.0,2.3,1.4,71.0,8.1,1.4,2.5,1.4,0.56,,4.0,0.171875,0.6086956521739131,High,Low Sugar,Yes
+7622210396334,Milka Choc & Choc,MILKA,454.0,1908.0,58.0,40.0,22.0,7.9,5.6,1.6,0.57,0.228,,4.0,6.4469696969697,0.6896551724137931,Moderate,Moderate Sugar,Yes
+3560071013196,Stylesse Nature,Carrefour,379.0,1604.0,80.0,13.0,1.5,0.2,8.7,5.3,0.79,0.316,,3.0,0.0,0.1625,Moderate,Low Sugar,No
+3270160813681,"Lasagnes Légumes Grillés, Mozzarella",Picard,114.0,477.3,12.0,3.2,4.7,2.4,5.0,1.8,0.57,0.228,,3.0,0.2653808593749965,0.26666666666666666,Low,Low Sugar,No
+3229820783659,Le Sablé,Bjorg,489.0,2047.0,61.0,23.0,23.0,10.0,7.4,4.2,0.33,0.132,,3.0,3.15,0.3770491803278688,Moderate,Moderate Sugar,No
+3033490004538,Danone le nature 125 g x 12,"Danone, Danone set plain",58.0,245.0,6.6,6.6,1.3,0.8,5.0,2.5,0.19,0.076,,1.0,0.0,1.0,Low,Low Sugar,No
+3179142054589,Levure de boulanger traditionnelle,Vahiné,0.0,1700.0,100.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,0.0,1.0,Low,High Sugar,No
+3560070519309,Muesli 5 céréales nature,"Carrefour BIO,Carrefour",347.0,1466.0,64.0,1.0,3.3,0.6,9.7,12.0,0.01,0.004,,1.0,0.0,0.015625,Moderate,Low Sugar,No
+8480000390325,Zumo pura naranja con pulpa,Hacendado,44.0,189.0,9.9,9.3,0.1,0.0,0.7,0.8,0.0,0.0,,1.0,75.0,0.9393939393939394,Low,Low Sugar,No
+8480000592491,Jamón cocido extra,Hacendado,101.0,1194.0,0.9,0.9,2.5,0.9,18.6,2.5,1.9,0.76,,4.0,0.2653808593749965,1.0,Low,Low Sugar,Yes
+20158125,Fromage Blanc saveur vanille,Envia,96.0,406.0,12.2,11.6,2.5,1.6,6.2,0.0,0.04,0.016,,4.0,5.1203125,0.9508196721311476,Low,Low Sugar,Yes
+5000157078773,Heinz beanz in a rich tomato sauce no added sugar,Heinz,66.0,276.0,9.5,1.9,0.2,0.1,4.6,3.6,0.3925,0.157,,4.0,87.19625,0.19999999999999998,Low,Low Sugar,Yes
+3760091727084,Pâte à tartiner aux noisettes,Ethiquable,543.0,2266.0,54.0,52.0,32.0,13.0,7.1,2.5,0.13,0.052,,4.0,28.375,0.9629629629629629,High,High Sugar,Yes
+3760032001884,Frites à la graisse de canard,Pom Bistro,141.0,588.0,17.2,0.7,6.1,2.1,2.2,4.0,0.4,0.16,,3.0,0.75,0.04069767441860465,Low,Low Sugar,No
+20103354,Reduced fat soft cheese,Milbona,141.0,575.3,3.0,0.8,11.0,1.9,6.9,1.2,0.16,0.064,,4.0,0.0,0.26666666666666666,Low,Low Sugar,Yes
+3229820798875,Pain complet protéines,Bjorg,476.0,1988.0,22.0,5.4,19.6,2.6,40.0,26.0,2.0,0.8,,8.0,0.0,0.24545454545454548,Moderate,Low Sugar,No
+8000300211368,"NESCAFÉ Café Viennois, Café soluble,","Nestlé, Nescafé",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+7622300503079,Choco Moo,MILKA,495.0,2066.3,68.0,34.0,21.0,11.0,6.9,2.0,0.68,0.272,,4.0,0.194444444444445,0.5,Moderate,Moderate Sugar,Yes
+8076808890015,Pâtes tortellini jambon fromage collezione 250g,Barilla,405.0,1704.0,56.0,2.0,13.0,2.5,16.0,3.3,1.0,0.4,,4.0,0.2653808593749965,0.03571428571428571,Moderate,Low Sugar,Yes
+80809180,deko Nutella small,Ferrero,539.0,2252.0,57.5,56.3,30.9,10.6,6.3,0.0,0.107,0.0428,,4.0,13.0,0.9791304347826086,High,High Sugar,Yes
+3250390009092,Petit beurre,"Chabrior,Filet Bleu,Intermarché",443.0,1861.0,77.0,19.0,11.0,7.7,7.8,1.6,1.1,0.44,,4.0,0.0113525390625,0.24675324675324675,Moderate,Low Sugar,Yes
+3229820797915,Boisson cajou sans sucres,Bjorg,32.0,133.1,2.7,0.2,1.9,0.4,0.9,0.2,0.12,0.048,,4.0,4.3,0.07407407407407407,Low,Low Sugar,Yes
+5054775188239,Tesco British Salted Block Butter,Tesco,745.0,3061.8,0.6,0.6,82.2,52.1,0.6,2.5,1.475,0.59,,2.0,0.0,1.0,High,Low Sugar,No
+3033491602030,Hipro 25g protéines Chocolat,Danone,54.0,225.0,5.0,4.8,0.2,0.1,7.6,5.4,0.2,0.08,,4.0,0.0,0.96,Low,Low Sugar,Yes
+5000436616443,Corn Flakes,Tesco,384.0,1629.6,83.9,5.5,1.2,0.3,7.7,3.5,0.59,0.236,,3.0,0.0,0.06555423122765196,Moderate,Low Sugar,No
+3038680063630,Filet de harengs doux,Delpierre,177.0,733.0,0.0,0.0,12.0,3.3,17.0,2.5,3.9,1.56,,3.0,0.0,0.0,Low,Low Sugar,No
+3564700340721,Emmental français,"Marque Repère, Les Croisés",369.0,1532.0,0.5,0.5,29.0,21.0,27.0,0.5,0.6,0.24,,3.0,0.0,1.0,Moderate,Low Sugar,No
+5410041472509,Tuc Sour Cream & Onion,LU,503.0,2102.33333333333,63.3333333333333,7.0,24.0,10.6666666666667,7.0,2.33333333333333,1.8,0.72,,13.3333333333333,0.0,0.11052631578947374,High,Low Sugar,No
+3564707999625,Pain épice au miel,"Bio Village,Marque Repère",328.0,1392.0,75.0,42.0,1.2,0.2,3.0,3.4,0.35,0.14,,4.0,0.0,0.56,Moderate,High Sugar,Yes
+3523230040976,Tranches de chèvre,Soignon,401.0,1663.0,0.0,0.0,33.0,23.0,26.0,0.0,1.7,0.68,,3.0,0.0,0.0,Moderate,Low Sugar,No
+4056489108375,Краве масло 82%,Pilos,747.0,3052.7,0.6,0.6,82.0,55.0,0.5,2.5,5e-05,2e-05,,2.0,0.0,1.0,High,Low Sugar,No
+7613035862265,"MAGGI KUB OR Bouillon Réduit en sel de -25% - 32 cubes - 121,6g","Kub or, Maggi",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+3700214610015,Chocolat noir intense dégustation,Alter Eco,546.0,2275.3,50.0,43.0,34.0,20.0,5.7,8.8,0.01,0.004,,4.0,0.0,0.86,High,High Sugar,Yes
+3248830692287,Canard confit & écrasé de Pommes de terre,Marie,148.0,587.0,8.8,0.9,9.1,5.0,7.2,1.0,0.6,0.24,,3.0,0.2653808593749965,0.10227272727272727,Low,Low Sugar,No
+3560071097455,Galettes suédoises,Carrefour,505.0,2110.0,60.0,41.0,26.0,14.0,5.0,4.0,0.65,0.26,,4.0,2.1875,0.6833333333333333,High,High Sugar,Yes
+3560070323289,Purée de tomate,Carrefour,23.0,98.0,3.5,3.5,0.0,1.6,1.2,1.3,0.03,0.012,,1.0,75.0,1.0,Low,Low Sugar,No
+5000354800931,Rice Pudding,Ambrosia,93.0,393.0,15.6,8.7,2.0,1.3,3.1,0.5,0.11,0.044,,4.0,0.0,0.5576923076923077,Low,Low Sugar,Yes
+3165950222029,Thon entier nature,Saupiquet,93.0,392.5,0.0,0.0,0.5,0.2,22.0,2.5,0.9825,0.393,,4.0,0.0,0.0,Low,Low Sugar,Yes
+3245390068675,Gâche vendéenne IGP,"Carrefour, Reflets de France",373.0,1566.0,49.0,12.0,16.0,10.0,7.7,1.7,0.85,0.34,,4.0,0.0,0.24489795918367346,Moderate,Low Sugar,Yes
+20427634,2 Panés au colin d'Alaska MSC,Sans marque,209.0,875.0,19.0,0.6,8.8,0.9,12.0,2.5,0.79,0.316,,4.0,0.25,0.031578947368421054,Low,Low Sugar,Yes
+3450970070782,Eau De Source De Montagne,Eco+ Leclerc eco,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.001475,0.00059,,0.1,0.0,0.25943396226415094,Low,Low Sugar,No
+3017760038706,Lulu La Barquette Framboise,"Lu,Mondelez",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+8715700110189,Tomato ketchup,Heinz,102.0,418.5,23.2,22.8,0.1,0.1,1.2,2.5,1.8,0.72,,4.0,0.0,0.9827586206896552,Low,Moderate Sugar,Yes
+20139315,Beurre Gastronomique Doux,,744.0,3061.0,0.9,0.7,82.0,57.0,0.7,0.5,0.05,0.02,,2.0,0.2653808593749965,0.7777777777777777,High,Low Sugar,No
+13297703,Brassé citron au lait entier,"Yoplait, les laitiers responsables",92.0,360.0,12.0,10.8,2.7,1.8,3.3,2.5,0.13,0.052,,4.0,2.0,0.9,Low,Low Sugar,Yes
+3560070877546,Le Gourmand Céréales et Graines,Carrefour,289.0,1221.0,48.0,4.4,5.5,0.7,10.0,3.9,0.99,0.396,,4.0,1.05,0.09166666666666667,Low,Low Sugar,Yes
+3228024930050,President emmental coeur de meule 400g,Président,369.0,1532.0,0.5,0.5,29.0,21.0,27.0,0.0,0.6,0.24,,3.0,0.0,1.0,Moderate,Low Sugar,No
+3039824100358,Lentilles vertes cello,Vivien Paille,328.0,1384.6,45.0,2.0,1.8,0.2,25.0,16.0,0.05,0.02,,1.0,100.0,0.044444444444444446,Moderate,Low Sugar,No
+3176571731289,Candy up goût chocolat,Candia,62.0,263.0,10.0,9.7,0.9,0.6,3.2,0.6,0.09,0.036,,3.0,0.0,0.97,Low,Low Sugar,No
+5000165024014,Pure Irish Butter,Kerrygold,744.0,1194.0,0.6,0.6,80.0,53.0,0.6,2.5,1.77,0.708,,2.0,0.2653808593749965,1.0,High,Low Sugar,No
+3038359004582,Bolognaise,Panzani,82.0,343.0,6.9,5.8,3.7,1.5,4.5,1.5,0.91,0.364,,4.0,106.3,0.8405797101449275,Low,Low Sugar,Yes
+3155250367049,beurre président 1/2 sel,Président,727.0,2989.0,1.0,1.0,80.0,55.0,0.7,2.5,2.0,0.8,,2.0,0.0,1.0,High,Low Sugar,No
+20024857,Tomme de brebis,"Chêne D'argent,Duc de coeur",400.0,1657.5,1.5,0.5,34.0,24.0,22.0,0.0,1.3775,0.551,,4.0,0.0,0.3333333333333333,Moderate,Low Sugar,Yes
+8480000094308,Quinoa,Hacendado,389.0,1586.55,66.05,6.32,6.1,0.78,14.0,2.5,0.0,0.0,,4.0,0.0,0.09568508705526117,Moderate,Low Sugar,Yes
+3229820793665,Soja chocolat,Bjorg,72.0,300.6,7.8,7.0,2.6,0.6,3.8,0.9,0.09,0.036,,4.0,0.0,0.8974358974358975,Low,Low Sugar,Yes
+5013665113133,Crunchy Peanut Butter,Whole Earth,643.0,2659.4,7.4,3.8,54.3,7.9,27.7,6.7,1.0825,0.433,,3.0,97.0,0.5135135135135135,High,Low Sugar,No
+20620400,yaourt nature,envia,44.0,187.0,4.8,4.8,1.0,0.6,4.0,0.0,0.14,0.056,,1.0,0.0,1.0,Low,Low Sugar,No
+5057373489593,Greek style natural yogurt,TESCO,99.0,411.8,4.2,4.0,7.5,5.1,3.7,0.0,0.1,0.04,,1.0,0.0,0.9523809523809523,Low,Low Sugar,No
+8718781824402,Cebolla frita,"Hacendado,Onion Specialties International",590.0,2450.0,40.0,9.0,44.0,21.0,6.0,5.0,1.2,0.48,,3.0,0.2653808593749965,0.225,High,Low Sugar,No
+3068110801235,L'Originale - Farine de blé fluide T45,"Francine, Francine (R)",333.0,1414.0,71.3,1.9,0.8,0.2,8.4,4.1,0.0,0.0,,1.0,0.0,0.02664796633941094,Moderate,Low Sugar,No
+3564700382158,Vinaigre Balsamique de Modène,"Marque Repère, Rustica",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,33.0,0.25943396226415094,Low,Low Sugar,Yes
+5053827199636,Tresor,"Kellogg's, Tresor",440.0,1854.0,70.0,28.0,14.0,4.0,7.2,3.1,0.95,0.38,,4.0,2.47916666666667,0.4,Moderate,Moderate Sugar,Yes
+3256220125772,Bâtonnets de préparation à base de chair de poisson saveur crabe - x30- 500g,U,111.0,465.0,12.0,2.1,3.8,0.4,7.1,0.5,1.8,0.72,,4.0,2.7375,0.17500000000000002,Low,Low Sugar,Yes
+3088540002262,Miel l'apiculteur,"L'Apiculteur, Yves Michaud",320.0,1387.0,80.0,80.0,0.5,0.5,0.5,2.5,0.0,0.0,,2.0,0.0,1.0,Moderate,High Sugar,No
+3270190204374,LAIT DE MONTAGNE demi-écrémé,Carrefour,47.0,197.0,4.8,4.8,1.6,1.0,3.3,2.5,0.1,0.04,,1.0,0.0,1.0,Low,Low Sugar,No
+3428272970161,Lait Bio  Engagé Entier,Lactel,65.0,270.9,4.8,4.8,3.6,2.2,3.3,2.5,0.1,0.04,,1.0,0.0,1.0,Low,Low Sugar,No
+3175681155589,Sablés Framboise Rooibos,Gerblé,414.0,1743.5,72.0,0.0,14.0,1.2,6.1,5.6,0.32,0.128,,4.0,11.135,0.0,Moderate,Low Sugar,Yes
+4088600247458,malted wheaties,Harvest Morn,370.0,1538.0,70.0,10.9,1.8,0.2,11.7,13.3,0.27,0.108,,4.0,0.0,0.15571428571428572,Moderate,Low Sugar,Yes
+3168930161462,"Bénénuts Plaisir brut Mélange de noix amandes, noix, cajous, noisettes","BENENUTS, Plaisir brut",662.0,2772.0,9.9,4.2,61.0,6.9,19.0,8.6,0.01,0.004,,3.0,95.0,0.42424242424242425,High,Low Sugar,No
+3250391635283,Muesli floconneux morceaux de fruits,"Chabrior,Intermarché,Antartic II",378.0,1591.0,61.2,12.9,8.4,3.1,9.9,9.1,0.08,0.032,,4.0,18.3984375,0.2107843137254902,Moderate,Low Sugar,Yes
+3270160717323,"Pizza N°6 - Jambon, Speck, Roquette, Mozzarella",Picard,212.0,892.0,24.0,2.4,7.2,3.5,12.0,2.3,1.1,0.44,,4.0,26.2825,0.09999999999999999,Low,Low Sugar,Yes
+4088600225425,Canadian Maple Syrup,Specially Selected,359.0,1527.0,89.1,79.8,0.3,0.1,0.1,0.0,0.03,0.012,,2.0,0.2653808593749965,0.8956228956228957,Moderate,High Sugar,No
+3564700044643,Pâte feuilletée,"Tablier Blanc,Marque Repère",389.0,1546.0,35.0,0.7,23.0,12.0,5.4,1.0,1.3,0.52,,4.0,3.0,0.02,Moderate,Low Sugar,Yes
+3103220034804,Haricots Happy Life,Haribo,348.0,1457.0,81.0,53.0,0.5,0.1,4.7,2.5,0.02,0.008,,4.0,0.280761718749993,0.654320987654321,Moderate,High Sugar,Yes
+3036812020698,creme d'asperge,Royco,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+20842444,Crème Fleurette Entière Octueuse 30%,Envia,298.0,1229.0,3.4,3.4,30.6,20.5,23.0,0.5,0.1,0.04,,4.0,0.0,1.0,Low,Low Sugar,Yes
+3760049798838,Pain farine d'epeautre & graines 260g,La Boulangère,314.0,1320.0,44.0,4.4,10.0,1.1,10.0,4.0,0.93,0.372,,4.0,0.0,0.1,Moderate,Low Sugar,Yes
+8002210112445,Classic Pesto,Filippo Berio,381.0,1554.3,7.1,2.1,37.0,5.4,3.8,0.0,1.75,0.7,,3.0,30.3874881628788,0.295774647887324,Moderate,Low Sugar,No
+8008698012857,Butterkeks Petit beurre,Schär,458.0,1930.0,80.0,16.0,14.0,9.4,2.7,0.8,1.0,0.4,,4.0,0.46875,0.2,Moderate,Low Sugar,Yes
+20289119,,"Optisana,MinaVit",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+20003555,Choco Duo,Mister Choc,574.0,2395.0,59.1,58.7,36.3,8.0,2.1,0.9,0.13,0.052,,4.0,24.5,0.9932318104906938,High,High Sugar,Yes
+3270190022534,Pâte feuilletée,Carrefour,398.0,1659.0,39.0,1.2,22.0,11.0,5.7,1.4,0.88,0.352,,3.0,7.97714285714286,0.030769230769230767,Moderate,Low Sugar,No
+3178530413984,Galettes au bon beurre,St Michel,470.0,1976.0,73.0,26.0,16.0,10.0,7.4,2.2,0.87,0.348,,4.0,0.0,0.3561643835616438,Moderate,Moderate Sugar,Yes
+3533631465001,Elben Lait fermenté,"Candia, Lacteor, Sodiaal",35.0,149.0,4.3,4.3,0.5,0.3,3.3,2.5,0.1,0.04,,3.0,0.0,1.0,Low,Low Sugar,No
+5013683305466,Garlic & Ginger Marinated Tofu,Cauldron Express,175.0,728.0,1.4,0.7,13.0,1.6,14.0,0.4,1.2,0.48,,4.0,62.0434523809524,0.5,Low,Low Sugar,Yes
+3254550014704,Crème fraiche d’Isigny,isigny sainte mère,392.857142857143,1575.0,7.14285714285714,3.57142857142857,39.2857142857143,25.0,0.0,2.5,0.0446428571428571,0.0178571428571429,,3.57142857142857,0.0,0.5,Moderate,Low Sugar,No
+3168930001911,Lay's 3D's Bugles goût cacahuète,Lay's,570.0,2370.0,48.0,4.0,38.0,4.0,8.5,3.0,1.8,0.72,,4.0,10.246875,0.08333333333333333,High,Low Sugar,Yes
+8480000142146,Digestive,Hacendado,464.0,1949.8,70.0,17.0,17.0,2.0,6.0,3.6,1.5725,0.629,,4.0,0.0,0.24285714285714285,Moderate,Low Sugar,Yes
+3023290050347,Le viennois,Nestlé,144.0,653.0,18.2,16.3,6.5,4.3,2.8,0.1,0.18,0.072,,4.0,0.0,0.8956043956043956,Low,Low Sugar,Yes
+5010044010144,Soft Pitta,Warburtons,225.0,1007.93650793651,40.0,3.96825396825397,2.22222222222222,0.634920634920635,11.9047619047619,5.3968253968254,0.904761904761905,0.361904761904762,,6.34920634920635,0.309720394736846,0.09920634920634926,Low,Low Sugar,No
+3175681117839,Lentilles et épeautre,Céréal Bio,109.0,458.0,12.0,1.1,2.7,0.4,5.9,6.7,1.0,0.4,,3.0,42.1,0.09166666666666667,Low,Low Sugar,No
+3560070972180,Sardines au citron & basilic,Carrefour,170.0,710.0,1.2,0.7,10.0,2.3,20.0,0.0,1.0,0.4,,4.0,5.7,0.5833333333333334,Low,Low Sugar,Yes
+3564700007440,Fromage blanc au lait entier,"Délisse, Marque Repère",108.0,450.0,4.2,4.2,7.6,5.0,5.7,0.0,0.1,0.04,,3.0,0.0,1.0,Low,Low Sugar,No
+3256220363310,Chips paysanne nature,U,530.0,2210.0,52.0,0.5,32.0,2.6,6.1,4.8,1.1,0.44,,3.0,0.0,0.009615384615384616,High,Low Sugar,No
+3250390148999,Brioche tranchée,"Chabrior, Intermarché",325.0,1367.0,50.6,11.2,9.1,3.7,8.7,2.8,0.89,0.356,,4.0,0.2653808593749965,0.22134387351778653,Moderate,Low Sugar,Yes
+3421557500763,Riz complet soufflé,Grillon d'Or,376.0,1593.0,79.0,0.6,2.6,0.6,8.1,2.2,0.03,0.012,,1.0,0.0,0.007594936708860759,Moderate,Low Sugar,No
+3228022120071,President emmental coeur de meule 500g,President,369.0,1532.0,0.5,0.5,29.0,21.0,27.0,0.0,0.6,0.24,,3.0,0.0,1.0,Moderate,Low Sugar,No
+5013803001070,"Low Sugar Granola, Wholegrain Oats, Almonds & Seeds",Eat Natural,495.0,2058.0,33.0,4.4,31.4,9.2,13.7,12.8,0.05,0.02,,4.0,55.25,0.13333333333333333,Moderate,Low Sugar,Yes
+3270160744824,2 dos de cabillaud façon fish and chips,Picard,153.0,640.0,7.5,1.5,7.0,0.7,14.0,0.9,0.87,0.348,,4.0,0.10817307692308,0.2,Low,Low Sugar,Yes
+3266980891015,Filet de poulet x 2,Le Gaulois,108.0,457.6,0.0,0.0,1.8,0.5,23.0,2.5,0.13,0.052,,1.0,0.0,0.0,Low,Low Sugar,No
+3288131500102,Céréales Vanille,Babybio,380.0,1609.0,79.0,0.5,1.9,0.4,9.7,3.8,0.01,0.004,,3.0,0.0,0.006329113924050633,Moderate,Low Sugar,No
+3270160490615,Brandade parmentier de morue,Picard,138.0,575.0,8.5,0.8,8.7,2.1,5.9,1.2,0.73,0.292,,3.0,8.6875,0.09411764705882353,Low,Low Sugar,No
+3252971460117,Polenta Express Grains Moyens,Alpina Savoie,351.0,1489.0,76.0,1.0,1.0,0.2,8.0,3.0,0.008,0.0032,,1.0,0.0,0.013157894736842105,Moderate,Low Sugar,No
+3245390221780,Ratatouille A la provençale,"Carrefour, Reflets de France",70.0,290.0,5.0,4.6,4.3,0.5,1.2,3.2,0.58,0.232,,3.0,96.67,0.9199999999999999,Low,Low Sugar,No
+4056489412175,Coconut Classic,Vemondo,97.0,396.6,4.9,2.0,8.1,12.6666666666667,0.8,0.833333333333333,0.1,0.04,,6.66666666666667,34.0,0.4081632653061224,Low,Low Sugar,No
+3263670123517,Sardine huile olive v.e. pim d'Espelette 115g CBLE,Connétable,260.0,1079.6,0.6,0.6,20.0,4.0,19.0,0.8,0.885,0.354,,3.0,18.23,1.0,Low,Low Sugar,No
+3564700391914,Tortellini Ricotta Epinards aux oeufs frais,"Turini,Marque Repère",257.0,1082.0,39.0,5.6,6.8,2.4,8.7,2.9,0.95,0.38,,4.0,0.2653808593749965,0.14358974358974358,Low,Low Sugar,Yes
+3421557501524,Flocons d'avoine sans gluten,Terres Et Cereales,364.0,1535.0,59.0,1.2,6.7,1.4,12.0,10.0,0.01,0.004,,4.0,0.0,0.020338983050847456,Moderate,Low Sugar,Yes
+3556071235270,4 Pains Kebab,LA BOULANGÈRE,257.0,1088.0,51.0,6.6,1.9,0.2,7.5,2.9,1.3,0.52,,4.0,0.65,0.12941176470588234,Low,Low Sugar,Yes
+3254381058717,CRISTALINE Eau de Source au jus de fruits CITRONNADE 1.5L,Cristaline,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,6.16071428571428,0.25943396226415094,Low,Low Sugar,Yes
+5022019090204,Belvoir Farm Ginger Cordial,Ginger Cordial,17.0,72.0,4.5,4.5,0.0,0.0,0.0,0.0,0.0,0.0,,4.0,33.25,1.0,Low,Low Sugar,Yes
+3270160861781,"Linguine au Saumon et aux Épinards, sauce Citron Basilic",Formule EXPRESS,114.0,478.0,13.0,1.1,4.5,2.1,5.1,1.1,0.61,0.244,,4.0,16.05,0.08461538461538462,Low,Low Sugar,Yes
+3033491915017,Hipro Mousse cacao,"HiPRO, Danone",84.0,355.0,5.3,4.3,2.3,1.6,10.0,2.5,0.25,0.1,,4.0,0.0,0.8113207547169812,Low,Low Sugar,Yes
+4006040271031,Bouillon de légumes,Rapunzel,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+4056489189244,Dark Chocolate 70% Cacao,fin CARRE,522.0,2158.0,34.3,1.2,42.2,26.9,8.2,2.5,0.03,0.012,,4.0,0.0,0.03498542274052478,High,Low Sugar,Yes
+3307130802625,Petits pois à l'étuvée extra fins,"Jardin bio, Léa Nature",62.0,262.0,8.0,1.0,0.6,0.2,4.0,4.5,0.58,0.232,,4.0,84.7594353212331,0.125,Low,Low Sugar,Yes
+3523230052856,Yaourts nature au lait entier,"C'est qui le Patron ?!,La marque du consommateur",62.0,258.0,4.1,4.1,3.4,2.1,3.7,2.5,0.1,0.04,,3.0,0.0,1.0,Low,Low Sugar,No
+4008258442012,Morceaux de Gingembre confit,Seeberger,323.0,1372.0,79.0,74.0,0.3,0.3,0.2,2.2,0.03,0.012,,4.0,0.0,0.9367088607594937,Moderate,High Sugar,Yes
+0046000283265,Tortillas,Old El Paso,297.560975609756,1248.53658536585,52.9268292682927,2.19512195121951,5.1219512195122,1.21951219512195,9.02439024390244,0.731707317073171,0.982317073170732,0.392926829268293,,9.75609756097561,0.0,0.04147465437788013,Low,Low Sugar,No
+3250390841210,Tortilla chips nature,Bouton d'or,485.0,2035.0,66.5,0.6,20.6,1.7,6.4,4.0,0.74,0.296,,3.0,0.0,0.009022556390977442,Moderate,Low Sugar,No
+6130433000354,,Candia,82.0,344.0,12.8,11.5,2.3,1.56,2.6,0.0,0.1,0.04,,4.0,0.0,0.8984375,Low,Low Sugar,Yes
+8480000093332,Minis leche,Hacendado,439.0,1846.0,69.0,35.0,13.0,5.9,9.9,3.5,0.82,0.328,,4.0,2.146875,0.5072463768115942,Moderate,Moderate Sugar,Yes
+3248830000914,Tomates farcies & riz à la tomate,Marie,130.0,566.0,10.0,2.0,8.0,2.3,3.8,1.2,0.67,0.268,,3.0,0.2653808593749965,0.2,Low,Low Sugar,No
+3564707091749,Madeleines coquilles bio,"Bio Village, Marque Repère",445.8,1867.0,55.0,31.0,22.0,2.1,6.4,1.1,0.7,0.28,,4.0,5.5,0.5636363636363636,Moderate,Moderate Sugar,Yes
+5900617038289,Peanut Butter Smooth,GO ON,603.0,2499.8,12.0,6.7,48.0,6.4,27.0,7.6,0.04,0.016,,1.0,100.0,0.5583333333333333,High,Low Sugar,No
+8710522940648,KNORR Bouillon de Légumes Sans Sel 8 Tablettes 72g,Knorr,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+3335880006222,Chili recette végétarienne,Prosain,92.0,388.0,13.0,3.6,1.9,0.3,6.0,2.5,0.5,0.2,,3.0,90.3169014084507,0.27692307692307694,Low,Low Sugar,No
+3017800501658,Maïs croquant Sans résidu de pesticides d'aucy 285g,d'aucy,89.0,373.0,12.0,4.9,2.4,0.5,2.9,3.8,0.43,0.172,,3.0,0.2653808593749965,0.4083333333333334,Low,Low Sugar,No
+6191540700087,eau minérale naturelle,Fourat,286.0,1194.0,0.0,4.4,0.0,0.0,0.0,2.5,0.00553,0.002212,,0.1,0.2653808593749965,0.0,Low,Low Sugar,No
+3760074310012,,Cazaubon,48.0,213.0,2.6,2.6,3.0,1.5,3.4,2.5,0.1,0.04,,1.0,0.0,1.0,Low,Low Sugar,No
+3560071276478,LAIT Noisettes entières,"Carrefour BIO, Carrefour",577.0,2401.0,45.0,43.0,40.0,16.0,8.9,3.5,0.19,0.076,,4.0,25.0,0.9555555555555556,High,High Sugar,Yes
+5449000046390,,Schweppes,37.0,155.0,9.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,,4.0,0.0,1.0,Low,Low Sugar,Yes
+0037600110754,Peanut Butter,SKIPPY,593.75,2591.9,18.8,9.38,50.0,9.38,21.9,6.25,1.17,0.468,,4.0,87.69,0.498936170212766,High,Low Sugar,Yes
+3564700551622,Déli Matin Miel & Pépites de Chocolat,"Marque Repère, P'tit Déli",455.0,1877.0,69.0,26.0,14.0,5.8,8.8,4.5,0.82,0.328,,4.0,0.0,0.37681159420289856,Moderate,Moderate Sugar,Yes
+6111242106925,Jutos,Jaouda,45.6,1194.0,11.4,10.7,0.0,0.0,0.0,0.0,0.5,0.2,,4.0,0.2653808593749965,0.9385964912280701,Low,Low Sugar,Yes
+3596710508594,Biscottes à la farine complète sans sucres ajoutés,Auchan,395.0,1671.0,65.0,3.4,4.6,0.5,14.0,7.0,1.5,0.6,,4.0,5.83333333333333,0.052307692307692305,Moderate,Low Sugar,Yes
+4056489651086,Cranberry,Mcennedy,28.0,154.0,6.6,5.6,0.5,0.0,0.5,0.0,0.09,0.036,,4.0,27.75,0.8484848484848485,Low,Low Sugar,Yes
+3033490006402,Skyr vanille,Danone,75.0,319.785714285714,9.57142857142857,9.07142857142857,0.142857142857143,0.0714285714285714,8.92857142857143,2.5,0.000196428571428571,7.85714285714286e-05,,2.85714285714286,5.675,0.9477611940298507,Low,Low Sugar,No
+3245412542862,Sardines sauce tomate,Carrefour,140.0,585.0,0.8,0.7,6.7,2.3,19.0,1.0,0.91,0.364,,3.0,12.0,0.8749999999999999,Low,Low Sugar,No
+3564700841112,Nuggets Végétariens,"Marque Repère,NAT&vie",265.0,1161.0,24.0,1.2,14.0,1.4,13.0,1.7,0.7,0.28,,4.0,0.2653808593749965,0.049999999999999996,Low,Low Sugar,Yes
+3435070021780,Biscuits rose de Reims,Maison fossier,398.0,1681.0,81.0,50.0,3.9,1.0,8.5,1.9,0.14,0.056,,4.0,0.0,0.6172839506172839,Moderate,High Sugar,Yes
+3560070737710,CROCKS Goût CHOCO-NOISETTE,Carrefour,456.0,1919.0,75.0,26.0,13.0,2.0,6.6,6.3,0.62,0.248,,4.0,3.975,0.3466666666666667,Moderate,Moderate Sugar,Yes
+8480000198129,,Hacendado,12.0,51.0,0.0,0.0,0.0,0.0,3.0,0.0,18.3,7.32,,4.0,0.2653808593749965,0.0,Low,Low Sugar,Yes
+8002470030879,Huile d'olives,Carapelli,821.0,3367.0,0.0,0.0,91.0,13.0,0.0,0.0,0.0,0.0,,2.0,100.0,0.0,High,Low Sugar,No
+4088600236377,Superseed Farmhouse,Specially Selected,286.0,1194.0,40.1,2.7,8.2,1.3,10.4,5.0,0.99,0.396,,9.09090909090909,0.2653808593749965,0.06733167082294264,Low,Low Sugar,No
+3019081236113,Miettes de thon à l huile de tournesol,Petit navire,236.0,983.0,0.0,0.0,16.0,1.6,23.0,0.0,1.0,0.4,,3.0,0.0,0.0,Low,Low Sugar,No
+3250391781836,Farine Blanche Bio T65 1kg,"Chabrior, Intermarché",359.0,1467.0,72.66,1.42,1.38,0.264,10.34,3.5,0.033,0.0132,,1.0,0.0,0.019543077346545555,Moderate,Low Sugar,No
+20527488,Lait saveur cacao,Milbona,67.0,281.0,10.0,10.0,1.5,1.0,3.0,0.6,0.13,0.052,,4.0,0.0,1.0,Low,Low Sugar,Yes
+3564700854242,Batonnet de surimi,"Marque Repère, Pêche Océan",121.0,503.0,9.3,3.1,5.5,0.4,8.2,0.8,1.6,0.64,,4.0,5.18601190476191,0.3333333333333333,Low,Low Sugar,Yes
+3760020502041,Sablés gourmands,"Jardin bio, LEA Nature",472.0,1981.0,70.0,27.0,18.0,5.8,6.2,2.4,0.37,0.148,,4.0,8.55,0.38571428571428573,Moderate,Moderate Sugar,Yes
+3700260700777,Pilchards harengs,Petit Pierre,164.0,680.3,0.9,0.9,12.0,3.1,13.0,2.5,0.92,0.368,,4.0,9.55,1.0,Low,Low Sugar,Yes
+8480000342621,Pistacho natural,Hacendado,607.0,2513.0,11.5,7.5,49.6,5.6,25.0,7.4,0.0,0.0,,1.0,100.0,0.6521739130434783,High,Low Sugar,No
+4056489098591,Mascarpone,"Lidl, Milbona",401.0,1673.0,2.5,2.5,41.0,30.0,5.5,2.5,0.08,0.031,,3.0,0.0,1.0,Moderate,Low Sugar,No
+20346263,Sauce crudités,Kania,287.0,1190.2,7.8,6.8,28.0,1.9,0.8,1.0,2.5,1.0,,4.0,31.0107421875,0.8717948717948718,Low,Low Sugar,Yes
+3175681158382,Barres banane Gerblé Sport,Gerblé,385.0,1645.5,74.0,59.0,7.0,0.7,5.3,4.8,0.02,0.008,,4.0,31.4,0.7972972972972973,Moderate,High Sugar,Yes
+3073781074994,Boursin® Echalote & Ciboulette,Boursin,401.0,1654.0,2.5,2.5,40.0,27.0,8.0,2.5,1.2,0.48,,3.0,1.3,1.0,Moderate,Low Sugar,No
+3256220368056,"Vinaigre balsamique , Bouteille 50cl","U, U Bio",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,2.0,25.0,0.25943396226415094,Low,Low Sugar,No
+3523230055246,Notre mousse au chocolat,"Agrial, Eurial, Les 300 & Bio",186.0,710.0,18.0,18.0,10.0,6.3,2.0,2.5,0.1,0.04,,4.0,0.0,1.0,Low,Low Sugar,Yes
+3259011169436,15 Falafels,Soy,270.0,1124.0,19.0,2.1,15.0,2.0,12.0,5.3,1.3,0.52,,3.0,54.0366071428571,0.1105263157894737,Low,Low Sugar,No
+20713232,Betteraves rouges,Lidl,44.0,184.0,7.2,6.7,0.1,0.0,2.3,0.0,0.0,0.0,,1.0,100.0,0.9305555555555556,Low,Low Sugar,No
+3329770076457,Calin Extra 0%,"Calin,Yoplait",62.0,246.8,7.8,7.8,0.1,0.1,6.5,2.5,0.13,0.052,,1.0,0.0,1.0,Low,Low Sugar,No
+3124480195340,PET 1.2L MAYTEA FRAMBOISE,May Tea,20.0,84.0,4.7,4.7,0.0,0.0,0.0,0.0,0.03,0.012,,4.0,1.0,1.0,Low,Low Sugar,Yes
+3564707121071,Purée de fruits pomme poire sans sucres ajoutés bio,"Bio Village, Marque Repère",56.0,238.0,13.0,11.0,0.5,0.1,0.5,2.1,0.0,0.0,,1.0,0.2653808593749965,0.8461538461538461,Low,Low Sugar,No
+4018077756276,,"Intersnack,Vico",663.0,2745.0,16.0,4.1,57.0,6.2,18.0,7.2,0.9,0.36,,3.0,0.2653808593749965,0.25625,High,Low Sugar,No
+3250390005162,Lentilles préparées - 4/4,"Les Mousquetaires, Saint eloi, Sélection des Mousquetaires",82.0,437.0,15.0,0.3,0.5,0.1,7.3,4.9,0.74,0.296,,4.0,51.4170815779395,0.02,Low,Low Sugar,Yes
+3380380077388,Palmier BIO Pur Beurre,Bisson,510.0,2133.0,61.0,22.0,26.0,18.0,6.7,2.5,0.95,0.38,,3.0,0.0,0.36065573770491804,High,Moderate Sugar,No
+3250391781713,Pure canne en poudre bio & equitable,"Chabrior, Intermarché",396.0,1700.0,100.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,0.0,1.0,Moderate,High Sugar,No
+3564700644157,Pistaches grillées à sec,"Marque Repère, Tokapi",611.2,2531.0,11.0,9.0,50.0,6.5,25.0,8.6,0.8,0.32,,3.0,0.2653808593749965,0.8181818181818182,High,Low Sugar,No
+3367651000054,Poulet rôti mayonnaise,Daunat,265.0,1129.0,25.0,2.0,14.0,1.0,10.0,2.5,1.2,0.48,,4.0,2.79464285714286,0.08,Low,Low Sugar,Yes
+3560071051334,Dattes dénoyautées,"Carrefour BIO, Carrefour",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+5060132281796,Smooth almond butter,Meridian,650.0,2720.0,6.5,4.0,56.0,4.4,25.0,12.0,0.0,0.0,,1.0,100.0,0.6153846153846154,High,Low Sugar,No
+5000118203503,Chicken & Mushroom Flavour,POT noodle,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+3256220367981,Riz basmati 500g,"U, U Bio",350.0,1485.0,78.0,0.5,0.6,0.1,7.4,1.4,0.01,0.004,,3.0,0.0,0.00641025641025641,Moderate,Low Sugar,No
+5412971116072,Pur Natur Biologische yoghurt,Pur natur,72.0,303.0,5.1,5.1,3.8,2.4,4.3,0.0,0.13,0.0,,4.0,0.0,1.0,Low,Low Sugar,Yes
+3184670001165,La Faisselle 6 pots,rians,76.0,316.0,4.5,4.1,4.4,3.0,3.8,0.0,0.13,0.052,,3.0,0.0,0.911111111111111,Low,Low Sugar,No
+3256224191377,Pâte feuilletée au beurre prête à dérouler 230g,U,396.0,1656.0,43.0,2.0,20.0,14.0,6.3,1.3,0.83,0.332,,3.0,0.415,0.046511627906976744,Moderate,Low Sugar,No
+3396411233692,Dégustation Noir Togo 85%,Bonneterre,612.0,2529.5,21.0,14.0,52.0,32.0,8.5,13.0,0.0,0.0,,3.0,0.0,0.6666666666666666,High,Low Sugar,No
+4902663010203,Soupe miso tofu instantanée petits oignons,hikari miso,20.0,84.0,2.5,1.4,0.5,0.01,1.1,0.5,1.1,0.44,,4.0,49.39765625,0.5599999999999999,Low,Low Sugar,Yes
+5057545878798,Soft Cheese,Creamfields,206.0,851.8,4.6,3.5,19.3,12.0,3.5,0.0,0.3925,0.157,,4.0,0.0,0.7608695652173914,Low,Low Sugar,Yes
+20653798,Feta AOP,Milbona,276.0,1154.6,1.8,0.5,23.0,16.5,15.4,1.4,2.0,0.8,,3.0,0.0,0.2777777777777778,Low,Low Sugar,No
+3267110001113,Purée d'amande blanchie,PERL'AMANDE,631.0,2609.0,8.8,4.6,53.0,4.0,26.0,9.9,0.01,0.004,,1.0,100.0,0.5227272727272726,High,Low Sugar,No
+3330720250988,Confiture d'Orange,Lucien Georgelin,197.0,843.0,48.0,48.0,0.5,0.1,0.5,2.5,0.03,0.012,,4.0,58.3333333333333,1.0,Low,High Sugar,Yes
+3560071000066,Coconut Milk,Carrefour,186.0,766.0,3.5,2.0,18.0,16.0,1.5,2.5,0.05,0.02,,1.0,60.0,0.5714285714285714,Low,Low Sugar,No
+5601192103101,Chocolate,Agros,62.0,262.0,9.3,9.2,1.2,0.8,3.4,0.5,0.13,0.052,,4.0,0.2653808593749965,0.9892473118279569,Low,Low Sugar,Yes
+00414234,Fettuccine Alfrado,Trader Giotto's,481.0,2015.3,62.7,1.4,21.9,2.0,5.5,5.7,0.001875,0.00075,,12.0,9.375,0.022328548644338114,Moderate,Low Sugar,No
+3560071175825,Filets de MAQUEREAUX SAUCE TOMATE & BASILIC,Carrefour,183.0,760.0,1.6,1.5,13.0,3.2,14.0,0.6,0.58,0.232,,4.0,12.09,0.9375,Low,Low Sugar,Yes
+3560070800292,Choco Rice,"Carrefour, Carrefour Kids",381.0,1614.0,81.0,19.0,2.0,1.1,7.1,5.3,0.3,0.12,,4.0,0.3,0.2345679012345679,Moderate,Low Sugar,Yes
+3270160503148,Purée de patate douce à la crème,Picard,76.0,320.0,13.0,6.4,2.0,1.3,0.8,2.0,0.38,0.152,,3.0,0.0,0.49230769230769234,Low,Low Sugar,No
+3700679600200,Pain tartines bio* cereales 450g,Bien,314.0,1318.0,42.0,5.0,11.0,0.9,9.1,5.3,1.0,0.4,,4.0,0.0,0.11904761904761904,Moderate,Low Sugar,Yes
+5060183673915,Blueberry & Honey Porridge Oat Bars,Stoats,427.0,1778.0,50.0,13.0,20.0,3.9,8.0,15.0,0.04,0.016,,4.0,10.611328125,0.26,Moderate,Low Sugar,Yes
+8002190001449,Magretti,Galbusera,438.356164383562,1194.0,75.3424657534247,21.9178082191781,10.958904109589,1.36986301369863,6.84931506849315,4.10958904109589,0.821917808219178,0.328767123287671,,54.7945205479452,0.2653808593749965,0.29090909090909095,Moderate,Moderate Sugar,No
+3564707116374,Sauce bolognaise Bio,"Bio Village, Marque Repère",87.0,364.0,7.0,4.2,4.0,1.8,5.0,1.5,0.975,0.39,,3.0,0.2653808593749965,0.6,Low,Low Sugar,No
+3564707083799,Biscuits petit déjeuner choco-noisette,"Bio Village, Marque Repère",486.0,2037.0,62.0,26.0,22.0,9.7,7.6,5.0,0.31,0.124,,4.0,0.2653808593749965,0.41935483870967744,Moderate,Moderate Sugar,Yes
+3596710467815,Houmous - aux pois chiches,Auchan,309.0,1279.0,9.7,0.5,25.0,2.4,8.0,6.7,1.2,0.48,,3.0,69.0,0.051546391752577324,Moderate,Low Sugar,No
+3760121212870,Tartine craquante sarrasin riz maïs,Biocoop,370.0,1554.0,73.0,1.5,2.5,0.6,11.3,4.7,0.6,0.24,,3.0,0.2653808593749965,0.02054794520547945,Moderate,Low Sugar,No
+3245362071122,Cassoulet au porc,La belle chaurienne,130.0,539.0,8.0,0.5,6.0,2.3,9.0,3.5,0.7,0.28,,3.0,1.1,0.0625,Low,Low Sugar,No
+3017800056202,Pois chiches Sultanines 530g,Sultanines,126.0,529.0,17.0,0.8,2.0,0.3,6.8,6.3,0.7,0.28,,3.0,85.4852562267392,0.047058823529411764,Low,Low Sugar,No
+8410199013545,Cheetos Sticks Palitos,Cheetos,518.0,2141.5,56.2,4.8,29.3,4.2,6.0,2.5,1.7,0.68,,4.0,0.0,0.08540925266903913,High,Low Sugar,Yes
+8480000182098,Sardinillas en tomate,Hacendado,152.0,637.0,1.1,0.8,7.7,2.1,20.0,2.5,1.1,0.44,,3.0,3.125,0.7272727272727273,Low,Low Sugar,No
+5900617037152,Sante gold granola,sante,469.0,1194.0,61.0,15.0,18.0,2.7000000476837,9.8,6.3,0.44,0.176,,4.0,0.2653808593749965,0.2459016393442623,Moderate,Low Sugar,Yes
+7613287514219,NESTLE FITNESS Chocolat au Lait Céréales 450g,"Nestlé, Fitness",397.0,1674.0,69.7,17.5,7.3,4.0,8.8,9.1,0.5,0.2,,4.0,0.2653808593749965,0.2510760401721664,Moderate,Low Sugar,Yes
+5059319002323,Krave choco nut flavour,Kellogg,456.0,1887.3,69.0,51.4,16.0,4.5,5.5,3.6,0.006,0.0024,,4.0,20.75,0.744927536231884,Moderate,High Sugar,Yes
+3596710476800,Lait,Auchan Bio,47.0,197.0,4.8,4.8,1.6,1.0,3.3,0.5,0.09,0.036,,4.0,0.0,1.0,Low,Low Sugar,Yes
+8428532230047,Cuisine Amande,ECOMIL,93.0,353.6,1.0,1.0,8.5,0.9,1.3,2.5,0.1,0.04,,4.0,7.0,1.0,Low,Low Sugar,Yes
+3270160403417,"Galettes au Sarrasin - Saint-Jacques, Échalote, Persil",Picard,140.8,593.44,16.0,2.24,4.16,2.56,8.8,2.24,0.786,0.3144,,2.4,12.8,0.14,Low,Low Sugar,No
+3531150000109,6 Petites Galettes au Blé noir Bio,Biobleud,208.0,972.0,25.0,3.6,8.4,1.4,7.2,1.3,1.3,0.52,,3.0,0.0,0.14400000000000002,Low,Low Sugar,No
+3173310021540,GACHE BIO EN TRANCHES 350G,"Bio, Thomas brioche",394.0,1653.0,51.3,15.3,17.3,10.7,9.1,2.5,0.82,0.328,,3.0,0.0,0.29824561403508776,Moderate,Low Sugar,No
+3166352968515,Hachis Parmentier,Marie,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+8001420003406,Risotto Tradition,Riso Gallo S.p.A.,348.0,1476.0,77.3,0.2,1.0,0.3,6.9,1.0,0.0,0.0,,1.0,0.0,0.00258732212160414,Moderate,Low Sugar,No
+3596710451388,Petit beurre tablette chocolat noir bio,"Auchan,Auchan Bio",500.0,2092.0,60.0,34.0,25.0,15.0,7.1,4.4,0.34,0.136,,4.0,0.0,0.5666666666666667,Moderate,Moderate Sugar,Yes
+5000112651324,[Coca-Cola] Carbonated softdrink with cola taste,The Coca-Cola Company,42.0,180.0,10.6,10.6,0.0,0.0,0.0,0.0,0.0,0.0,,4.0,0.0,1.0,Low,Low Sugar,Yes
+8076809519977,Barilla orecchiette 500g,Barilla,359.0,1521.0,71.0,3.5,2.0,0.5,13.0,3.0,0.01,0.004,,1.0,0.0,0.04929577464788732,Moderate,Low Sugar,No
+4056489520528,Pan de pipas Girasol y Calabaza,Lidl,272.0,1139.0,39.5,4.9,8.6,1.6,14.0,9.5,0.0,0.0,,4.0,0.2653808593749965,0.12405063291139241,Low,Low Sugar,Yes
+3421557701399,Flocons De Sarrasin,Grillon d'Or,351.0,1485.0,60.0,1.5,3.9,0.9,16.0,5.6,0.01,0.004,,1.0,0.0,0.025,Moderate,Low Sugar,No
+4902663010180,Pâte Aka Miso,HIKARI MISO,204.0,854.0,23.3,13.6,5.9,0.88,10.3,2.5,11.6,4.64,,3.0,18.75,0.5836909871244634,Low,Low Sugar,No
+20000295,Paprikapulver,Kania,286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.0,0.25943396226415094,Low,Low Sugar,Yes
+3760253400008,Pesto alla Genovese 135g,Italians do it better,578.0,2378.0,1.0,0.3,61.0,9.9,5.5,0.0,3.5,1.4,,3.0,84.04425,0.3,High,Low Sugar,No
+4056489206026,Eiweißreiches Weizenvollkornbrot,GRÄSCHAFTER,268.571428571428,1072.85714285714,15.7142857142857,1.42857142857143,11.1428571428571,1.71428571428571,23.1428571428571,6.85714285714286,1.11428571428571,0.445714285714284,,11.4285714285714,0.0,0.09090909090909108,Low,Low Sugar,No
+8013355501520,Pavesini 200 gr,Pavesi,389.0,1649.0,83.0,50.0,2.5,0.8,7.0,2.5,0.3,0.12,,4.0,0.0,0.6024096385542169,Moderate,High Sugar,Yes
+3438860001207,Riz au lait tradition,GABORIT BERNARD,123.0,518.0,16.96,8.04,4.4,3.4,3.94,2.5,0.26,0.104,,3.0,0.0,0.47405660377358483,Low,Low Sugar,No
+8410076474131,Tortillas,Old El Paso,299.0,1264.3,53.2,2.1,5.2,1.2,9.1,1.6,1.0,0.4,,4.0,0.0,0.039473684210526314,Low,Low Sugar,Yes
+3760049796797,Bag viennoise bio* nature x4 340g,Bien,343.0,1446.0,53.0,8.7,9.8,1.1,9.5,2.6,0.89,0.356,,4.0,0.0,0.1641509433962264,Moderate,Low Sugar,Yes
+9300652010374,Weet-Bix,Sanitarium,354.838709677419,1585.48387096774,65.8064516129032,2.90322580645161,4.19354838709677,0.967741935483871,12.258064516129,12.9032258064516,0.67741935483871,0.270967741935484,,9.67741935483871,0.0,0.0441176470588235,Moderate,Low Sugar,No
+20000318,Pfeffer gemahlen,"Kania, Kania (Lidl)",286.0,1194.0,16.96,4.4,6.95,1.6,6.5,2.5,0.355,0.138,,4.0,0.2653808593749965,0.25943396226415094,Low,Low Sugar,Yes
+8001091002821,Oat Biscuits,Germinal,442.0,1857.0,65.0,18.0,15.0,2.4,8.4,6.8,0.6,0.24,,4.0,7.0,0.27692307692307694,Moderate,Low Sugar,Yes
+8410087820033,Sandwich sotille integral,"Dulcesol,Vicky Foods",267.0,1070.1,42.0,9.6,4.1,1.0,10.0,4.3,0.88,0.352,,4.0,4.8,0.22857142857142856,Low,Low Sugar,Yes
+3350033310780,Flocons d'avoine complets,Monoprix,375.0,1584.0,59.0,1.1,7.6,1.6,13.0,9.3,0.01,0.004,,1.0,0.0,0.01864406779661017,Moderate,Low Sugar,No
+3256223670200,Biscuits Sablés bio céréales nappés chocolat au lait paquet de 200g,"U, U Bio",513.0,2148.0,60.0,25.0,26.0,11.0,7.9,3.9,0.6,0.24,,3.0,4.3125,0.4166666666666667,High,Moderate Sugar,No
+3061990143556,Goûters BN au chocolat,BN,463.0,1944.0,69.0,30.0,17.0,8.6,6.5,3.9,0.47,0.188,,4.0,3.94583333333333,0.43478260869565216,Moderate,Moderate Sugar,Yes
+3175681186613,Barre Chocolat orange,Gerlinéa,415.0,1742.0,50.0,39.0,14.0,8.0,22.0,3.5,0.43,0.172,,4.0,45.3,0.78,Moderate,Moderate Sugar,Yes
+3270160892341,"Salade lentilles saumon fumé, pomme granny smith",Picard,147.0,612.1,11.0,2.5,6.7,0.9,7.6,6.0,0.58,0.2,,3.0,83.8,0.22727272727272727,Low,Low Sugar,No
+5411188137979,Soja Natur,alpro,49.0,199.4,2.3,2.2,2.3,0.4,4.0,0.9,0.24,0.096,,4.0,10.7,0.9565217391304349,Low,Low Sugar,Yes
+3154230801825,HERTA KNACKI Original saucisse Porc sans nitrite x4 - 140g,"Herta, Knacki",265.0,1097.5,1.5,1.0,23.0,9.1,13.0,0.0,1.928,0.7712,,4.0,0.0,0.6666666666666666,Low,Low Sugar,Yes
+4056489189237,Chocolate con leche 0% azúcar añadido,fin Carré,500.0,2063.0,52.4,9.7,35.7,23.4,5.4,2.5,0.2,0.08,,4.0,0.2653808593749965,0.1851145038167939,Moderate,Low Sugar,Yes
+20261382,Pilos Graikiškas Jogurtas,"Mlekovita,Pilos,Pilos (Lidl)",119.7418737861,500.9,4.0,4.0,10.0,6.5,3.7,2.5,0.0975,0.039,,4.0,0.0,1.0,Low,Low Sugar,Yes
+5000112594218,Coca cola Zero,"Coca-Cola, The Coca-Cola Company",286.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.008,,4.0,0.2653808593749965,0.0,Low,Low Sugar,Yes
